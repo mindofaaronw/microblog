@@ -1,0 +1,666 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Mind of Aaron W",
+	"icon": "https://micro.blog/mindofaaronw/avatar.jpg",
+	"home_page_url": "https://mindofaaronw.com/",
+	"feed_url": "https://mindofaaronw.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/17/todays-apple-announcement.html",
+				
+				"content_html": "<p>Today&rsquo;s Apple announcement implies there is only the Mac Pro left that offers Intel-based configurations. Makes me wonder if they will continue to offer Intel-based for Enterprise customers or not.</p>\n",
+				"content_text": "Today's Apple announcement implies there is only the Mac Pro left that offers Intel-based configurations. Makes me wonder if they will continue to offer Intel-based for Enterprise customers or not.\n",
+				"date_published": "2023-01-17T10:59:44-06:00",
+				"url": "https://mindofaaronw.com/2023/01/17/todays-apple-announcement.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/17/the-best-kind.html",
+				
+				"content_html": "<p>The best kind of office buddy.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The best kind of office buddy. \n\n<img src=\"uploads/2023/f32ac7c5ce.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-17T06:57:13-06:00",
+				"url": "https://mindofaaronw.com/2023/01/17/the-best-kind.html",
+				"tags": ["photos","dogs"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/16/listening-to-and.html",
+				
+				"content_html": "<p>Listening to🎵: <a href=\"https://www.last.fm/music/Nathaniel+Rateliff/And+It%27s+Still+Alright\">And It&rsquo;s Still Alright - Nathaniel Rateliff</a></p>\n<p><img src=\"https://lastfm.freetls.fastly.net/i/u/300x300/d05b45ed598aa8c825f3d8b0ec3fcd33.png\" alt=\"And It&rsquo;s Still Alright - Nathaniel Rateliff poster\"></p>\n",
+				"content_text": "Listening to🎵: [And It's Still Alright - Nathaniel Rateliff](https://www.last.fm/music/Nathaniel+Rateliff/And+It%27s+Still+Alright)\r\n\r\n![And It's Still Alright - Nathaniel Rateliff poster](https://lastfm.freetls.fastly.net/i/u/300x300/d05b45ed598aa8c825f3d8b0ec3fcd33.png)\n",
+				"date_published": "2023-01-16T11:52:49-06:00",
+				"url": "https://mindofaaronw.com/2023/01/16/listening-to-and.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/16/high-on-life.html",
+				
+				"content_html": "<p>🎮 <a href=\"https://www.giantbomb.com/high-on-life/3030-86445/\">High on Life (2022)</a> - ★★★★☆\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<img src=\"https://www.giantbomb.com/a/uploads/original/33/338034/3401792-9568805736-downl.jpg\" alt=\"High on Life poster\">\n<!-- raw HTML omitted -->\nHad a good time with this. Very funny, unique characters, and worlds. Gameplay style is just a typical shooter, but the writing is what shines here. Sad that Justin Roiland is having legal trouble now.</p>\n",
+				"content_text": "🎮 [High on Life (2022)](https://www.giantbomb.com/high-on-life/3030-86445/) - ★★★★☆\n<br>\n<br>\n![High on Life poster](https://www.giantbomb.com/a/uploads/original/33/338034/3401792-9568805736-downl.jpg)\n<br>\nHad a good time with this. Very funny, unique characters, and worlds. Gameplay style is just a typical shooter, but the writing is what shines here. Sad that Justin Roiland is having legal trouble now.\n",
+				"date_published": "2023-01-16T09:34:48-06:00",
+				"url": "https://mindofaaronw.com/2023/01/16/high-on-life.html",
+				"tags": ["games"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/15/a-nice-morning.html",
+				
+				"content_html": "<p>A nice morning today. Hope everyone’s Sunday is going well!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A nice morning today. Hope everyone’s Sunday is going well! \n\n<img src=\"uploads/2023/4748da5665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-15T14:01:55-06:00",
+				"url": "https://mindofaaronw.com/2023/01/15/a-nice-morning.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/14/finding-this-use.html",
+				
+				"content_html": "<p>Finding this use of AI very fun and harmless. Just made a playlist for last years ACL festival and worked great!\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted --></p>\n<p><a href=\"https://apps.apple.com/us/app/playlistai-playlist-maker/id1631703551\">Playlist AI</a></p>\n",
+				"content_text": "Finding this use of AI very fun and harmless. Just made a playlist for last years ACL festival and worked great!\n<br>\n<br>\n\n[Playlist AI](https://apps.apple.com/us/app/playlistai-playlist-maker/id1631703551)\n",
+				"date_published": "2023-01-14T14:48:40-06:00",
+				"url": "https://mindofaaronw.com/2023/01/14/finding-this-use.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/13/el-mariachi.html",
+				"title": "El Mariachi, 1992 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/2/2/8/47228-el-mariachi-0-600-0-900-crop.jpg?v=4227e91ea9\"/></p> <p>Watched on Friday January 13, 2023.</p>\n",
+				"date_published": "2023-01-13T21:22:31-06:00",
+				"url": "https://mindofaaronw.com/2023/01/13/el-mariachi.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/13/im-more-shocked.html",
+				
+				"content_html": "<p>I&rsquo;m more shocked by Lisa Marie Presley&rsquo;s death than Jeff Beck&rsquo;s. But lost two great&rsquo;s this week. Just wow.</p>\n",
+				"content_text": "I'm more shocked by Lisa Marie Presley's death than Jeff Beck's. But lost two great's this week. Just wow.\n",
+				"date_published": "2023-01-13T14:21:38-06:00",
+				"url": "https://mindofaaronw.com/2023/01/13/im-more-shocked.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/12/war-dogs.html",
+				"title": "War Dogs, 2016 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/7b/d2/2z/ef/aqhAqttDq7zgsTaBHtCD8wmTk6k-0-600-0-900-crop.jpg?v=b1d4ca3acb\"/></p> <p>Watched on Thursday January 12, 2023.</p>\n",
+				"date_published": "2023-01-12T23:28:52-06:00",
+				"url": "https://mindofaaronw.com/2023/01/12/war-dogs.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/12/not-to-be.html",
+				
+				"content_html": "<p>Not to be outdone by the sunset last night, here’s the sunrise in central Texas today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not to be outdone by the sunset last night, here’s the sunrise in central Texas today. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/c8699dd09d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-12T07:45:33-06:00",
+				"url": "https://mindofaaronw.com/2023/01/12/not-to-be.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/11/texas-sunsets-who.html",
+				
+				"content_html": "<p>Texas sunsets 🌅. Who can spot Saturn?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Texas sunsets 🌅. Who can spot Saturn?\n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/e7db65fb79.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-11T18:44:59-06:00",
+				"url": "https://mindofaaronw.com/2023/01/11/texas-sunsets-who.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/11/currently-reading-shoeless.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780395957738\">Shoeless Joe</a> by W. P. Kinsella 📚\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\nThe baseball nerd in me has finally gotten around to starting the book that Field of Dreams was based on. Giddy with excitement!</p>\n",
+				"content_text": "Currently reading: [Shoeless Joe](https://micro.blog/books/9780395957738) by W. P. Kinsella 📚\r\n<br>\r\n<br>\r\nThe baseball nerd in me has finally gotten around to starting the book that Field of Dreams was based on. Giddy with excitement!\n",
+				"date_published": "2023-01-11T09:21:46-06:00",
+				"url": "https://mindofaaronw.com/2023/01/11/currently-reading-shoeless.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/10/part-of-my.html",
+				
+				"content_html": "<p>Part of my reading the last year has focused on when to give up on books that don&rsquo;t interest me. A quarter of the way in and I just felt like I didn&rsquo;t learn anything new or interesting.\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<strong>Abandoned:</strong> <a href=\"https://micro.blog/books/9780062669025\">We Need to Talk: How to Have Conversations that Matter</a> by Celeste Headlee 📚</p>\n",
+				"content_text": "Part of my reading the last year has focused on when to give up on books that don't interest me. A quarter of the way in and I just felt like I didn't learn anything new or interesting.\n<br>\n<br>\n**Abandoned:** [We Need to Talk: How to Have Conversations that Matter](https://micro.blog/books/9780062669025) by Celeste Headlee 📚\n",
+				"date_published": "2023-01-10T12:30:20-06:00",
+				"url": "https://mindofaaronw.com/2023/01/10/part-of-my.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/im-a-fan.html",
+				
+				"content_html": "<p>I’m a fan of podcasts and audiobooks of all kinds. But I’ve never been able to get into This American Life or Radiolab. Any specific episodes to try (that aren’t locked behind the paywall)? 🎙️</p>\n",
+				"content_text": "I’m a fan of podcasts and audiobooks of all kinds. But I’ve never been able to get into This American Life or Radiolab. Any specific episodes to try (that aren’t locked behind the paywall)? 🎙️\n",
+				"date_published": "2023-01-09T17:52:28-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/im-a-fan.html",
+				"tags": ["podcasts"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/165945.html",
+				
+				"content_html": "<p>Always brightens my day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Always brightens my day. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/abfbad1d3d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-09T16:59:45-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/165945.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/finished-reading-tuesdays.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307414090\">Tuesdays with Morrie</a> by Mitch Albom 📚\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\nA nice reminder to live your life because eventually it will be taken from you.</p>\n",
+				"content_text": "Finished reading: [Tuesdays with Morrie](https://micro.blog/books/9780307414090) by Mitch Albom 📚\n<br>\n<br>\nA nice reminder to live your life because eventually it will be taken from you. \n",
+				"date_published": "2023-01-09T15:37:34-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/finished-reading-tuesdays.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/aarons-top-of.html",
+				"title": "Aaron’s Top 10 of 2022",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Top 10 of the year.</p> <ul> <li> <a href=\"https://letterboxd.com/film/everything-everywhere-all-at-once/\">Everything Everywhere All at Once</a> </li> <li> <a href=\"https://letterboxd.com/film/rrr/\">RRR</a> </li> <li> <a href=\"https://letterboxd.com/film/decision-to-leave/\">Decision to Leave</a> </li> <li> <a href=\"https://letterboxd.com/film/top-gun-maverick/\">Top Gun: Maverick</a> </li> <li> <a href=\"https://letterboxd.com/film/the-banshees-of-inisherin/\">The Banshees of Inisherin</a> </li> <li> <a href=\"https://letterboxd.com/film/guillermo-del-toros-pinocchio/\">Guillermo del Toro's Pinocchio</a> </li> <li> <a href=\"https://letterboxd.com/film/avatar-the-way-of-water/\">Avatar: The Way of Water</a> </li> <li> <a href=\"https://letterboxd.com/film/prey-2022/\">Prey</a> </li> <li> <a href=\"https://letterboxd.com/film/the-sea-beast-2022/\">The Sea Beast</a> </li> <li> <a href=\"https://letterboxd.com/film/fire-of-love-2022/\">Fire of Love</a> </li> </ul>\n",
+				"date_published": "2023-01-09T14:10:45-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/aarons-top-of.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/elvis.html",
+				"title": "Elvis, 2022 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/4/2/0/3/2/542032-elvis-0-600-0-900-crop.jpg?v=c8e56b86bc\"/></p> <p>Watched on Saturday July 2, 2022.</p>\n",
+				"date_published": "2023-01-09T13:43:33-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/elvis.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/pusher-ii.html",
+				"title": "Pusher II, 2004 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/rz/wz/st/bn/gfa7STxdOTqAWijSytswpdT535I-0-600-0-900-crop.jpg?v=d1238a7249\"/></p> <p>Watched on Wednesday June 15, 2022.</p>\n",
+				"date_published": "2023-01-09T13:42:41-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/pusher-ii.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/fantastic-mr-fox.html",
+				"title": "Fantastic Mr. Fox, 2009 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-600-0-900-crop.jpg?v=3a2a858065\"/></p> <p>Watched on Thursday June 23, 2022.</p>\n",
+				"date_published": "2023-01-09T13:40:03-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/fantastic-mr-fox.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/o-brother-where.html",
+				"title": "O Brother, Where Art Thou?, 2000 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/a0/sz/qf/mq/erBsxkzVwkXuvuzUBpVnNxxPYhO-0-600-0-900-crop.jpg?v=80375a32fa\"/></p> <p>Watched on Wednesday December 14, 2022.</p>\n",
+				"date_published": "2023-01-09T13:39:48-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/o-brother-where.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/dig.html",
+				"title": "Dig!, 2004 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/7/5/6/50756-dig--0-600-0-900-crop.jpg?v=d6bd640f8a\"/></p> <p>Watched on Wednesday December 7, 2022.</p>\n",
+				"date_published": "2023-01-09T13:39:36-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/dig.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/bullet-train.html",
+				"title": "Bullet Train, 2022 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/1/9/6/1/641961-bullet-train-0-600-0-900-crop.jpg?v=9245faa1ba\"/></p> <p>Watched on Thursday December 8, 2022.</p>\n",
+				"date_published": "2023-01-09T13:39:12-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/bullet-train.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/vengeance.html",
+				"title": "Vengeance, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/0/7/4/0/1/607401-vengeance-0-600-0-900-crop.jpg?v=2948bc7983\"/></p> <p>Watched on Saturday November 26, 2022.</p>\n",
+				"date_published": "2023-01-09T13:33:08-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/vengeance.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/moon-knight.html",
+				"title": "Moon Knight, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/3/9/7/7/4/839774-moon-knight-0-600-0-900-crop.jpg?v=f14eaf5f80\"/></p> <p>Watched on Wednesday May 4, 2022.</p>\n",
+				"date_published": "2023-01-09T13:32:49-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/moon-knight.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/doctor-strange-in.html",
+				"title": "Doctor Strange in the Multiverse of Madness, 2022 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/8/5/5/1/1/385511-doctor-strange-in-the-multiverse-of-madness-0-600-0-900-crop.jpg?v=009a8981af\"/></p> <p>Watched on Monday May 9, 2022.</p>\n",
+				"date_published": "2023-01-09T13:32:18-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/doctor-strange-in.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/everything-everywhere-all.html",
+				"title": "Everything Everywhere All at Once, 2022 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-600-0-900-crop.jpg?v=281f1a041e\"/></p> <p>Watched on Sunday March 27, 2022.</p>\n",
+				"date_published": "2023-01-09T13:31:37-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/everything-everywhere-all.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/emily-the-criminal.html",
+				"title": "Emily the Criminal, 2022 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/7/7/1/8/5/777185-emily-the-criminal-0-600-0-900-crop.jpg?v=6c3839f6e5\"/></p> <p>Watched on Wednesday December 28, 2022.</p>\n",
+				"date_published": "2023-01-09T13:31:10-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/emily-the-criminal.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/no-time-to.html",
+				"title": "No Time to Die, 2021 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/0/5/9/6/4/305964-no-time-to-die-0-600-0-900-crop.jpg?v=4651ce5b05\"/></p> <p>Watched on Sunday October 31, 2021.</p>\n",
+				"date_published": "2023-01-09T13:30:48-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/no-time-to.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/the-many-saints.html",
+				"title": "The Many Saints of Newark, 2021 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/4/0/0/8/454008-the-many-saints-of-newark-0-600-0-900-crop.jpg?v=804a09da90\"/></p> <p>Watched on Sunday October 17, 2021.</p>\n",
+				"date_published": "2023-01-09T13:30:27-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/the-many-saints.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/raging-fire.html",
+				"title": "Raging Fire, 2021 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/4/3/5/2/1/443521-raging-fire-0-600-0-900-crop.jpg?v=4a9dae5193\"/></p> <p>Watched on Saturday November 12, 2022.</p>\n",
+				"date_published": "2023-01-09T13:29:53-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/raging-fire.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/09/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781443414555\">The Old Man And The Sea</a> by Ernest Hemingway 📚\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\nRevisited a short, classic this weekend. Didn’t enjoy it as much 16 years later, but still find Hemingway’s writing style so good.</p>\n",
+				"content_text": "Finished reading: [The Old Man And The Sea](https://micro.blog/books/9781443414555) by Ernest Hemingway 📚\n<br>\n<br>\nRevisited a short, classic this weekend. Didn’t enjoy it as much 16 years later, but still find Hemingway’s writing style so good. \n",
+				"date_published": "2023-01-09T12:05:43-06:00",
+				"url": "https://mindofaaronw.com/2023/01/09/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/08/fire-of-love.html",
+				"title": "Fire of Love, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/1/9/8/6/3/819863-fire-of-love-0-600-0-900-crop.jpg?v=d79f69426b\"/></p> <p>“Curiosity is stronger than fear.”</p><p>The volcanologists curiosity is much appreciated. A beautiful and tragic love story, for science.</p>\n",
+				"date_published": "2023-01-08T21:01:37-06:00",
+				"url": "https://mindofaaronw.com/2023/01/08/fire-of-love.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/07/going-back-oin.html",
+				
+				"content_html": "<p>Going back in the music vault today. Listening to: Radiohead - Amnesiac.</p>\n",
+				"content_text": "Going back in the music vault today. Listening to: Radiohead - Amnesiac. \n",
+				"date_published": "2023-01-07T14:28:06-06:00",
+				"url": "https://mindofaaronw.com/2023/01/07/going-back-oin.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/06/always-a-nice.html",
+				
+				"content_html": "<p>Always a nice view when I head to campus 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Always a nice view when I head to campus 📷\n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/819851cdd2.jpg\" width=\"326\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-06T21:44:39-06:00",
+				"url": "https://mindofaaronw.com/2023/01/06/always-a-nice.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/06/heat.html",
+				"title": "Heat, 1995 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/9/4/51994-heat-0-600-0-900-crop.jpg?v=54dce97dc6\"/></p> <p>Watched on Friday January 6, 2023.</p>\n",
+				"date_published": "2023-01-06T15:11:32-06:00",
+				"url": "https://mindofaaronw.com/2023/01/06/heat.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/05/starting-a-book.html",
+				
+				"content_html": "<p>Starting a book I&rsquo;ve been itching to read today. Big fan of Tiago on YouTube and look forward to expanding my digital organization and notekeeping!</p>\n<p><a href=\"https://micro.blog/books/9781982167400\">Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential</a> by Tiago Forte 📚</p>\n",
+				"content_text": "Starting a book I've been itching to read today. Big fan of Tiago on YouTube and look forward to expanding my digital organization and notekeeping!\n\n [Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential](https://micro.blog/books/9781982167400) by Tiago Forte 📚\n",
+				"date_published": "2023-01-05T10:10:12-06:00",
+				"url": "https://mindofaaronw.com/2023/01/05/starting-a-book.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/02/reading-goals.html",
+				"title": "Reading Goals",
+				"content_html": "<p>In 2022, I read 29 books, surpassing my goal by one. I mostly stick to science fiction, self-help and philosophy, and general fiction.</p>\n<p>For 2023, I am changing it up a bit. The goal is one &ldquo;fiction&rdquo; and one &ldquo;non-fiction&rdquo; per month. Let me hear some recommendations!</p>\n",
+				"content_text": "In 2022, I read 29 books, surpassing my goal by one. I mostly stick to science fiction, self-help and philosophy, and general fiction. \n\nFor 2023, I am changing it up a bit. The goal is one \"fiction\" and one \"non-fiction\" per month. Let me hear some recommendations!\n",
+				"date_published": "2023-01-02T16:36:32-06:00",
+				"url": "https://mindofaaronw.com/2023/01/02/reading-goals.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/02/spent-new-years.html",
+				
+				"content_html": "<p>Spent New Years this year away from the city and in the Texas Hill Country. My goals for 2023 include taking the roads less travelled.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spent New Years this year away from the city and in the Texas Hill Country. My goals for 2023 include taking the roads less travelled. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/d548bc2fd3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-02T16:15:20-06:00",
+				"url": "https://mindofaaronw.com/2023/01/02/spent-new-years.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/02/excited-to-join.html",
+				
+				"content_html": "<p>Excited to join this community and share my insights and interests with like-minded people!</p>\n",
+				"content_text": "Excited to join this community and share my insights and interests with like-minded people!\n",
+				"date_published": "2023-01-02T16:09:04-06:00",
+				"url": "https://mindofaaronw.com/2023/01/02/excited-to-join.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/01/01/decision-to-leave.html",
+				"title": "Decision to Leave, 2022 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/2/9/3/2/0/629320-decision-to-leave-0-600-0-900-crop.jpg?v=30eaeaf481\"/></p> <p>Watched on Sunday January 1, 2023.</p>\n",
+				"date_published": "2023-01-01T09:09:54-06:00",
+				"url": "https://mindofaaronw.com/2023/01/01/decision-to-leave.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/28/glass-onion-a.html",
+				"title": "Glass Onion: A Knives Out Mystery, 2022 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/8/6/7/2/3/586723-glass-onion-a-knives-out-mystery-0-600-0-900-crop.jpg?v=ce7ed2a83f\"/></p> <p>Solid acting all around, but not quite the <b>umph </b>I was expecting in the mystery department.</p>\n",
+				"date_published": "2022-12-28T22:14:40-06:00",
+				"url": "https://mindofaaronw.com/2022/12/28/glass-onion-a.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/28/avatar-the-way.html",
+				"title": "Avatar: The Way of Water, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/3/0/5/8/63058-avatar-the-way-of-water-0-600-0-900-crop.jpg?v=37a1014065\"/></p> <p>Don’t doubt Mr. Cameron again. Also it’s better than the first one.</p>\n",
+				"date_published": "2022-12-28T15:06:59-06:00",
+				"url": "https://mindofaaronw.com/2022/12/28/avatar-the-way.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/26/dead-man.html",
+				"title": "Dead Man, 1995 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/0c/fp/b0/2s/8yHprfwQzvgNIywvD4s30vvWGBx-0-600-0-900-crop.jpg?v=1a87035daf\"/></p> <p>Watched on Monday December 26, 2022.</p>\n",
+				"date_published": "2022-12-26T11:36:43-06:00",
+				"url": "https://mindofaaronw.com/2022/12/26/dead-man.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/23/blonde.html",
+				"title": "Blonde, 2022 - ★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/8/5/9/4/228594-blonde-0-600-0-900-crop.jpg?v=e7d71ff1d6\"/></p> <p>This movie is very confusing and jumps all over the place. Ana de Armas still shines but the script is very weak.</p>\n",
+				"date_published": "2022-12-23T12:06:56-06:00",
+				"url": "https://mindofaaronw.com/2022/12/23/blonde.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/20/requiem-for-a.html",
+				"title": "Requiem for a Dream, 2000 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/lv/4b/f2/zj/muym4jTjdLx7E6as09d1wlC3sOB-0-600-0-900-crop.jpg?v=b4d5a4aa37\"/></p> <p>Watched on Tuesday December 20, 2022.</p>\n",
+				"date_published": "2022-12-20T16:36:25-06:00",
+				"url": "https://mindofaaronw.com/2022/12/20/requiem-for-a.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/20/the-banshees-of.html",
+				"title": "The Banshees of Inisherin, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/9/8/8/8/2/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg?v=933f9af6e7\"/></p> <p>The opening shot of this film is stunningly beautiful. The cinematography alone makes this worth watching. A tragic tale of friendship with three feckin' incredible performances and a haunting yet beautiful score.</p>\n",
+				"date_published": "2022-12-20T11:09:17-06:00",
+				"url": "https://mindofaaronw.com/2022/12/20/the-banshees-of.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/19/dj-vu.html",
+				"title": "Déjà Vu, 2006 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/9/8/7/47987-deja-vu-0-600-0-900-crop.jpg?v=7e52a254f6\"/></p> <p>Watched on Monday December 19, 2022.</p>\n",
+				"date_published": "2022-12-19T12:35:55-06:00",
+				"url": "https://mindofaaronw.com/2022/12/19/dj-vu.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/18/violent-night.html",
+				"title": "Violent Night, 2022 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/0/9/3/9/5/809395-violent-night-0-600-0-900-crop.jpg?v=9d0180c01a\"/></p> <p>Ho ho ho merry Christmas action scenes!</p>\n",
+				"date_published": "2022-12-18T18:57:39-06:00",
+				"url": "https://mindofaaronw.com/2022/12/18/violent-night.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/16/ambulance.html",
+				"title": "Ambulance, 2022 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/8/3/2/8/5/683285-ambulance-0-600-0-900-crop.jpg?v=4c9be52b89\"/></p> <p>I started to get dizzy from the drone shots but I couldn’t look away.</p>\n",
+				"date_published": "2022-12-16T14:29:12-06:00",
+				"url": "https://mindofaaronw.com/2022/12/16/ambulance.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/09/guillermo-del-toros.html",
+				"title": "Guillermo del Toro's Pinocchio, 2022 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/4/2/6/3/484263-guillermo-del-toro-s-pinocchio-0-600-0-900-crop.jpg?v=1408b5602c\"/></p> <p>The definitive film version of Pinocchio. Well done GDT.</p>\n",
+				"date_published": "2022-12-09T20:11:51-06:00",
+				"url": "https://mindofaaronw.com/2022/12/09/guillermo-del-toros.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/07/the-sea-beast.html",
+				"title": "The Sea Beast, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/91/48/x5/do/sea_beast_xxlg-0-600-0-900-crop.jpg?v=52209df52e\"/></p> <p>Netflix has a surprisingly good animation department and this deserved a theatrical release. Charming and heartwarming, but also action packed and funny to boot.</p>\n",
+				"date_published": "2022-12-07T11:46:57-06:00",
+				"url": "https://mindofaaronw.com/2022/12/07/the-sea-beast.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/12/01/petite-maman.html",
+				"title": "Petite Maman, 2021 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/6/9/7/4/4/669744-petite-maman-0-600-0-900-crop.jpg?v=c7cbed5a06\"/></p> <p>A heartfelt look at grief.</p>\n",
+				"date_published": "2022-12-01T14:22:20-06:00",
+				"url": "https://mindofaaronw.com/2022/12/01/petite-maman.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/11/19/the-menu.html",
+				"title": "The Menu, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/2/1/3/2/3/521323-the-menu-0-600-0-900-crop.jpg?v=d00a0d03a8\"/></p> <p>Fiennes is sinister in his role and this was surprisingly funny. A delectable thriller with a great cast.</p>\n",
+				"date_published": "2022-11-19T19:20:46-06:00",
+				"url": "https://mindofaaronw.com/2022/11/19/the-menu.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/11/06/the-lord-of.html",
+				"title": "The Lord of the Rings: The Return of the King, 2003 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Sunday November 6, 2022.</p>\n",
+				"date_published": "2022-11-06T08:38:35-06:00",
+				"url": "https://mindofaaronw.com/2022/11/06/the-lord-of.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/10/30/the-shining.html",
+				"title": "The Shining, 1980 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-600-0-900-crop.jpg?v=88d9d6cce4\"/></p> <p>Still think it’s Jack’s best work.</p>\n",
+				"date_published": "2022-10-30T21:15:21-06:00",
+				"url": "https://mindofaaronw.com/2022/10/30/the-shining.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/10/11/werewolf-by-night.html",
+				"title": "Werewolf by Night, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/0/5/1/0/6/805106-werewolf-by-night-0-600-0-900-crop.jpg?v=5abea85cf4\"/></p> <p>I wish the MCU became the Marvel MonsterVerse (MMV) now.</p>\n",
+				"date_published": "2022-10-11T19:48:29-06:00",
+				"url": "https://mindofaaronw.com/2022/10/11/werewolf-by-night.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/10/10/hackers.html",
+				"title": "Hackers, 1995 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/dp/sq/oj/cg/hNjxJbejPHSmKVidHQ9ZHaC0Z7r-0-600-0-900-crop.jpg?v=f0ff67d1b9\"/></p> <p>I love this corny movie. Full of hilarious one-liners and effects that are so bad they’re good. Great popcorn cult classic to watch when you’re bored.</p>\n",
+				"date_published": "2022-10-10T09:23:06-06:00",
+				"url": "https://mindofaaronw.com/2022/10/10/hackers.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/10/06/the-chronicles-of.html",
+				"title": "The Chronicles of Riddick, 2004 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/0/8/7/50087-the-chronicles-of-riddick-0-600-0-900-crop.jpg?v=34b39ddd3d\"/></p> <p>Watched on Thursday October 6, 2022.</p>\n",
+				"date_published": "2022-10-06T11:19:47-06:00",
+				"url": "https://mindofaaronw.com/2022/10/06/the-chronicles-of.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/10/04/the-unbearable-weight.html",
+				"title": "The Unbearable Weight of Massive Talent, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/7/4/3/8/5/574385-the-unbearable-weight-of-massive-talent-0-600-0-900-crop.jpg?v=2c49da09f3\"/></p> <p>Watched on Tuesday October 4, 2022.</p>\n",
+				"date_published": "2022-10-04T18:14:34-06:00",
+				"url": "https://mindofaaronw.com/2022/10/04/the-unbearable-weight.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/09/30/the-crow.html",
+				"title": "The Crow, 1994 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/1/0/4/47104-the-crow-0-600-0-900-crop.jpg?v=ee1947baad\"/></p> <p>Watched on Friday September 30, 2022.</p>\n",
+				"date_published": "2022-09-30T07:32:03-06:00",
+				"url": "https://mindofaaronw.com/2022/09/30/the-crow.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/09/25/last-night-in.html",
+				"title": "Last Night in Soho, 2021 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/5/0/0/0/505000-last-night-in-soho-0-600-0-900-crop.jpg?v=0b5403ef97\"/></p> <p>Watched on Sunday September 25, 2022.</p>\n",
+				"date_published": "2022-09-25T20:15:37-06:00",
+				"url": "https://mindofaaronw.com/2022/09/25/last-night-in.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/09/23/the-northman.html",
+				"title": "The Northman, 2022 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/6/5/8/5/2/565852-the-northman-0-600-0-900-crop.jpg?v=8e3d277969\"/></p> <p>Not for me. The Green Knight is better for the period piece art house vibe.</p>\n",
+				"date_published": "2022-09-23T10:23:31-06:00",
+				"url": "https://mindofaaronw.com/2022/09/23/the-northman.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/08/31/the-villainess.html",
+				"title": "The Villainess, 2017 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/6/9/8/8/0/369880-the-villainess-0-600-0-900-crop.jpg?v=a557b1bbde\"/></p> <p>Great action and first person camera work. Plot is a little erratic and confusing though.</p>\n",
+				"date_published": "2022-08-31T11:52:56-06:00",
+				"url": "https://mindofaaronw.com/2022/08/31/the-villainess.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/08/19/pitch-black.html",
+				"title": "Pitch Black, 2000 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/dz/qs/cp/de/z46wU1mzQm6b1LoqGG8E2uWNnFW-0-600-0-900-crop.jpg?v=141e3a7201\"/></p> <p>Watched on Friday August 19, 2022.</p>\n",
+				"date_published": "2022-08-19T14:04:40-06:00",
+				"url": "https://mindofaaronw.com/2022/08/19/pitch-black.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/08/19/the-hunt-for.html",
+				"title": "The Hunt for Red October, 1990 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/8/7/3/50873-the-hunt-for-red-october-0-600-0-900-crop.jpg?v=f5191bdb86\"/></p> <p>One of the best lines ever, and incredibly accurate:</p><p>“Listen, I’m a politician, which means I’m a cheat and a liar, and when I’m not kissing babies, I’m stealing lollipops.”</p>\n",
+				"date_published": "2022-08-19T10:08:00-06:00",
+				"url": "https://mindofaaronw.com/2022/08/19/the-hunt-for.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/08/18/bound.html",
+				"title": "Bound, 1996 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/2/8/9/47289-bound-0-600-0-900-crop.jpg?v=54e3ef63ae\"/></p> <p>The Wachowskis best work.</p>\n",
+				"date_published": "2022-08-18T19:57:02-06:00",
+				"url": "https://mindofaaronw.com/2022/08/18/bound.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/08/18/deep-water-contains.html",
+				"title": "Deep Water, 2022 - ★★★ (contains spoilers)",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/4/6/5/0/1/546501-deep-water-0-600-0-900-crop.jpg?v=3762b85fad\"/></p> <p><em>This review may contain spoilers.</em></p> <p>Narrator: What lengths would you go to to be with Ana de Armas? Murderous cucking? </p><p>Ben Affleck: Yes. </p><p>Narrator: So be it.</p>\n",
+				"date_published": "2022-08-18T10:36:40-06:00",
+				"url": "https://mindofaaronw.com/2022/08/18/deep-water-contains.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/08/10/mission-impossible-ii.html",
+				"title": "Mission: Impossible II, 2000 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/67/p1/1d/1m/MnK1Kn8cFcORYT8pIIexPUwLfW-0-600-0-900-crop.jpg?v=9f1c48e1b3\"/></p> <p>Watched on Wednesday August 10, 2022.</p>\n",
+				"date_published": "2022-08-10T09:20:44-06:00",
+				"url": "https://mindofaaronw.com/2022/08/10/mission-impossible-ii.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/08/08/mission-impossible.html",
+				"title": "Mission: Impossible, 1996 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/2/0/6/51206-mission-impossible-0-600-0-900-crop.jpg?v=7b7690e145\"/></p> <p>Watched on Monday August 8, 2022.</p>\n",
+				"date_published": "2022-08-08T12:44:39-06:00",
+				"url": "https://mindofaaronw.com/2022/08/08/mission-impossible.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/08/08/prey.html",
+				"title": "Prey, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/8/6/3/8/9/686389-prey-0-600-0-900-crop.jpg?v=f9f0c6bb6e\"/></p> <p>Fantastic addition to the franchise. As good if not better than the original.</p>\n",
+				"date_published": "2022-08-08T10:47:30-06:00",
+				"url": "https://mindofaaronw.com/2022/08/08/prey.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/07/29/the-gray-man.html",
+				"title": "The Gray Man, 2022 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/7/7/6/0/647760-the-gray-man-0-600-0-900-crop.jpg?v=85006270c0\"/></p> <p>I liked the train set piece.</p>\n",
+				"date_published": "2022-07-29T12:22:51-06:00",
+				"url": "https://mindofaaronw.com/2022/07/29/the-gray-man.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2022/07/08/hard-boiled.html",
+				"title": "Hard Boiled, 1992 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/0/1/3/45013-hard-boiled-0-600-0-900-crop.jpg?v=4bc5621882\"/></p> <p>Please give me more of the flaming motorcycle shootout scene.</p>\n",
+				"date_published": "2022-07-08T12:35:50-06:00",
+				"url": "https://mindofaaronw.com/2022/07/08/hard-boiled.html",
+				"tags": ["movies"]
+			}
+	]
+}
