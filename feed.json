@@ -7,10 +7,108 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/07/austin-is-full.html",
+				
+				"content_html": "<p>Austin is full of some fun street art.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Austin is full of some fun street art. \n\n<img src=\"uploads/2023/378496d3d1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-07T07:40:01-06:00",
+				"url": "https://mindofaaronw.com/2023/02/07/austin-is-full.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/06/about-a-month.html",
+				
+				"content_html": "<p>About a month until my wife and I take a trip to Italy. Will be my first trip to Europe!</p>\n",
+				"content_text": "About a month until my wife and I take a trip to Italy. Will be my first trip to Europe! \n",
+				"date_published": "2023-02-06T15:54:05-06:00",
+				"url": "https://mindofaaronw.com/2023/02/06/about-a-month.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/06/finished-reading-kings.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316362474\">Kings of the Wyld (The Band, #1)</a> by Nicholas Eames 📚.</p>\n<p>A fun fantasy epic. Debut novel by Mr. Eames and I am a fan. Now, back to reading something for learning.</p>\n",
+				"content_text": "Finished reading: [Kings of the Wyld (The Band, #1)](https://micro.blog/books/9780316362474) by Nicholas Eames 📚.\r\n\r\nA fun fantasy epic. Debut novel by Mr. Eames and I am a fan. Now, back to reading something for learning.\n",
+				"date_published": "2023-02-06T12:41:26-06:00",
+				"url": "https://mindofaaronw.com/2023/02/06/finished-reading-kings.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/06/090000.html",
+				
+				"content_html": "<p>The speed with which Ice Cubes development occurs astonishs me. Great app and developer!</p>\n",
+				"content_text": "The speed with which Ice Cubes development occurs astonishs me. Great app and developer!\n",
+				"date_published": "2023-02-06T09:00:00-06:00",
+				"url": "https://mindofaaronw.com/2023/02/06/090000.html",
+				"tags": ["tech","apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/06/finally-playing-god.html",
+				
+				"content_html": "<p>🎮 Finally playing <a href=\"https://www.giantbomb.com/god-of-war/3030-54229/\">God of War (2018)</a>. This game is fantastic.</p>\n<p><a href=\"https://www.giantbomb.com/a/uploads/original/33/338034/3287019-3786480319-Z7hV9.png\" \n   class=\"glightbox\"\n   data-gallery=\"b9e2ca5cc51eec64e0851602c9be75ae\"\n   \n>\n  <img src =\"https://www.giantbomb.com/a/uploads/original/33/338034/3287019-3786480319-Z7hV9.png\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"God of War poster\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "🎮 Finally playing [God of War (2018)](https://www.giantbomb.com/god-of-war/3030-54229/). This game is fantastic.\r\n\r\n![God of War poster](https://www.giantbomb.com/a/uploads/original/33/338034/3287019-3786480319-Z7hV9.png)\n",
+				"date_published": "2023-02-06T08:04:26-06:00",
+				"url": "https://mindofaaronw.com/2023/02/06/finally-playing-god.html",
+				"tags": ["games"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/05/nice-little-sculpture.html",
+				
+				"content_html": "<p>Nice little sculpture park located within a city park nearby!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nice little sculpture park located within a city park nearby! \n\n<img src=\"https://mindofaaronw.com/uploads/2023/c83de25f20.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-05T13:26:43-06:00",
+				"url": "https://mindofaaronw.com/2023/02/05/nice-little-sculpture.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/04/women-talking.html",
+				"title": "Women Talking, 2022 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/9/6/3/1/0/696310-women-talking-0-600-0-900-crop.jpg?v=8c9d924166\"/></p> <p>Watched on Saturday February 4, 2023.</p>\n",
+				"date_published": "2023-02-04T23:25:26-06:00",
+				"url": "https://mindofaaronw.com/2023/02/04/women-talking.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/04/not-as-good.html",
+				
+				"content_html": "<p>Not as good as some others I took during the storm. But thought this one was neat with how the berries are.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not as good as some others I took during the storm. But thought this one was neat with how the berries are. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/1d107c4d6f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-04T19:15:09-06:00",
+				"url": "https://mindofaaronw.com/2023/02/04/not-as-good.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/04/hoping-the-sounders.html",
+				
+				"content_html": "<p>⚽️ hoping the Sounders can show up on the global stage today.</p>\n",
+				"content_text": "⚽️ hoping the Sounders can show up on the global stage today. \n",
+				"date_published": "2023-02-04T11:00:06-06:00",
+				"url": "https://mindofaaronw.com/2023/02/04/hoping-the-sounders.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/03/charley-crockett-covering.html",
+				
+				"content_html": "<p>🎵 Charley Crockett covering <a href=\"https://youtube.com/watch?v=pXGxtfKDCYQ&amp;feature=shares\">All Along the Watchtower</a>. This is excellent.</p>\n",
+				"content_text": "🎵 Charley Crockett covering [All Along the Watchtower](https://youtube.com/watch?v=pXGxtfKDCYQ&feature=shares). This is excellent.\n",
+				"date_published": "2023-02-03T13:00:54-06:00",
+				"url": "https://mindofaaronw.com/2023/02/03/charley-crockett-covering.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/03/took-this-before.html",
+				
+				"content_html": "<p>Took this before the ice thawed yesterday in Austin. Probably my favorite photo I’ve taken in a while.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Took this before the ice thawed yesterday in Austin. Probably my favorite photo I’ve taken in a while. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/610c5e51d5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-03T09:57:33-06:00",
+				"url": "https://mindofaaronw.com/2023/02/03/took-this-before.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/02/02/i-dont-know.html",
 				
 				"content_html": "<p>I don’t know if this trees going to make it 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don’t know if this trees going to make it 😅\n\n<img src=\"uploads/2023/8bc878fb0b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I don’t know if this trees going to make it 😅\n\n<img src=\"https://mindofaaronw.com/uploads/2023/8bc878fb0b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-02T08:03:26-06:00",
 				"url": "https://mindofaaronw.com/2023/02/02/i-dont-know.html",
 				"tags": ["photos"]
