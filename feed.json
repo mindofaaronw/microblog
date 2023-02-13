@@ -7,10 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/12/i-swear-i.html",
+				
+				"content_html": "<p>I swear I gain 20 lbs every Super Bowl 🥲</p>\n",
+				"content_text": "I swear I gain 20 lbs every Super Bowl 🥲\n",
+				"date_published": "2023-02-12T18:13:30-06:00",
+				"url": "https://mindofaaronw.com/2023/02/12/i-swear-i.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/11/151937.html",
+				
+				"content_html": "<p>Never thought I&rsquo;d be one of those people to buy those Scottish &ldquo;Lord&rdquo; titles, but I just bought one for my dad for his birthday 😂</p>\n",
+				"content_text": "Never thought I'd be one of those people to buy those Scottish \"Lord\" titles, but I just bought one for my dad for his birthday 😂\n",
+				"date_published": "2023-02-11T15:19:37-06:00",
+				"url": "https://mindofaaronw.com/2023/02/11/151937.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/10/junge.html",
+				"title": "JUNG_E, 2023 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/5/8/6/2/1/758621-jung-e-0-600-0-900-crop.jpg?v=176c793624\"/></p> <p>Some pretty good action set pieces here. But the story was lacking.</p>\n",
+				"date_published": "2023-02-10T15:36:42-06:00",
+				"url": "https://mindofaaronw.com/2023/02/10/junge.html",
+				"tags": ["photos","long form posts"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/10/took-a-nice.html",
+				
+				"content_html": "<p>📸 Took a nice walk during a break at work and saw the UT baseball team practicing.</p>\n<p>Took this from under the scoreboard.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 Took a nice walk during a break at work and saw the UT baseball team practicing. \n\nTook this from under the scoreboard. \n\n<img src=\"uploads/2023/ad01b2d3f2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-10T14:09:04-06:00",
+				"url": "https://mindofaaronw.com/2023/02/10/took-a-nice.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/10/treat-a-work.html",
+				
+				"content_html": "<p>💬 “Treat a work of art like a prince: let it speak to you first.” -Arthur Schopenhauer</p>\n",
+				"content_text": "💬 “Treat a work of art like a prince: let it speak to you first.” -Arthur Schopenhauer\n",
+				"date_published": "2023-02-10T09:16:08-06:00",
+				"url": "https://mindofaaronw.com/2023/02/10/treat-a-work.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/09/133759.html",
+				
+				"content_html": "<p>Just getting into photography really for the first time. The hardest part is remembering what the individual camera settings do 😅</p>\n",
+				"content_text": "Just getting into photography really for the first time. The hardest part is remembering what the individual camera settings do 😅\n",
+				"date_published": "2023-02-09T13:37:59-06:00",
+				"url": "https://mindofaaronw.com/2023/02/09/133759.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/08/simone-wants-breakfastnow.html",
+				
+				"content_html": "<p>Someone wants breakfast…NOW.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Someone wants breakfast…NOW. \n\n<img src=\"uploads/2023/a66edbe1af.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-08T09:09:36-06:00",
+				"url": "https://mindofaaronw.com/2023/02/08/simone-wants-breakfastnow.html",
+				"tags": ["photos","dogs"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/07/cancelling-my-amazon.html",
+				
+				"content_html": "<p>Cancelling my Amazon Prime this year. I’ve had it since 2008 I believe. We just don’t utilize most of the benefits outside of the free shipping - but that no longer comes in 2 days anymore it seems.</p>\n",
+				"content_text": "Cancelling my Amazon Prime this year. I’ve had it since 2008 I believe. We just don’t utilize most of the benefits outside of the free shipping - but that no longer comes in 2 days anymore it seems. \n",
+				"date_published": "2023-02-07T08:53:08-06:00",
+				"url": "https://mindofaaronw.com/2023/02/07/cancelling-my-amazon.html"
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/02/07/austin-is-full.html",
 				
 				"content_html": "<p>Austin is full of some fun street art.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Austin is full of some fun street art. \n\n<img src=\"uploads/2023/378496d3d1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Austin is full of some fun street art. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/378496d3d1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-07T07:40:01-06:00",
 				"url": "https://mindofaaronw.com/2023/02/07/austin-is-full.html",
 				"tags": ["photos"]
