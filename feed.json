@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/24/anyone-have-thoughts.html",
+				
+				"content_html": "<p>Anyone have thoughts on Scrivener? How does it compare to iA Writer and others (other than being on Mac and Windows)?</p>\n",
+				"content_text": "Anyone have thoughts on Scrivener? How does it compare to iA Writer and others (other than being on Mac and Windows)?\n",
+				"date_published": "2023-02-24T13:56:29-06:00",
+				"url": "https://mindofaaronw.com/2023/02/24/anyone-have-thoughts.html",
+				"tags": ["apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/24/woke-up-with.html",
+				
+				"content_html": "<p>Woke up with a sick dog today. Poor guy :(</p>\n",
+				"content_text": "Woke up with a sick dog today. Poor guy :(\n",
+				"date_published": "2023-02-24T09:23:17-06:00",
+				"url": "https://mindofaaronw.com/2023/02/24/woke-up-with.html",
+				"tags": ["dogs"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/23/before-sunrise.html",
+				"title": "Before Sunrise, 1995 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-600-0-900-crop.jpg?v=de3c4718dc\"/></p> <p>\"You know what drives me crazy? It's all these people talking about how great technology is, and how it saves all this time. But, what good is saved time, if nobody uses it? If it just turns into more busy work. You never hear somebody say, \"With the time I've saved by using my word processor, I'm gonna go to a Zen monastery and hang out\". I mean, you never hear that.\"</p>\n",
+				"date_published": "2023-02-23T10:22:55-06:00",
+				"url": "https://mindofaaronw.com/2023/02/23/before-sunrise.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/22/my-cousin-vinny.html",
+				"title": "My Cousin Vinny, 1992 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/2/8/8/46288-my-cousin-vinny-0-600-0-900-crop.jpg?v=8444588281\"/></p> <p>Watched on Wednesday February 22, 2023.</p>\n",
+				"date_published": "2023-02-22T14:27:27-06:00",
+				"url": "https://mindofaaronw.com/2023/02/22/my-cousin-vinny.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/22/as-a-newer.html",
+				
+				"content_html": "<p>As a newer person to Austin, I found <a href=\"https://www.newyorker.com/magazine/2023/02/13/the-astonishing-transformation-of-austin?utm_source=pocket_saves\">this New Yorker</a> article fascinating. It dives into the fast makeover of Austin and what helped get there, as well as Austin&rsquo;s cultural and demographic history.</p>\n",
+				"content_text": "As a newer person to Austin, I found [this New Yorker](https://www.newyorker.com/magazine/2023/02/13/the-astonishing-transformation-of-austin?utm_source=pocket_saves) article fascinating. It dives into the fast makeover of Austin and what helped get there, as well as Austin's cultural and demographic history.\n",
+				"date_published": "2023-02-22T09:20:04-06:00",
+				"url": "https://mindofaaronw.com/2023/02/22/as-a-newer.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/22/finished-reading-how.html",
+				
+				"content_html": "<p>Finished reading 📚: <a href=\"https://micro.blog/books/9780735224155\">How to Change Your Mind: What the New Science of Psychedelics Teaches Us about Consciousness, Dying, Addiction, Depression, and Transcendence</a> by Michael Pollan</p>\n<p>I&rsquo;ve always been fascinated by this topic. Pollan approaches it in a scientific yet understandable way.</p>\n",
+				"content_text": "Finished reading 📚: [How to Change Your Mind: What the New Science of Psychedelics Teaches Us about Consciousness, Dying, Addiction, Depression, and Transcendence](https://micro.blog/books/9780735224155) by Michael Pollan\r\n\r\nI've always been fascinated by this topic. Pollan approaches it in a scientific yet understandable way.\n",
+				"date_published": "2023-02-22T08:27:18-06:00",
+				"url": "https://mindofaaronw.com/2023/02/22/finished-reading-how.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/21/george-carlin-on.html",
+				"title": "George Carlin: On Location at USC, 1977 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/9/3/4/1/59341-george-carlin-on-location-at-usc-0-600-0-900-crop.jpg?v=c1019f8269\"/></p> <p>Watched on Tuesday February 21, 2023.</p>\n",
+				"date_published": "2023-02-21T10:55:10-06:00",
+				"url": "https://mindofaaronw.com/2023/02/21/george-carlin-on.html",
+				"tags": ["movies","tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/20/speed-contains-spoilers.html",
+				"title": "Speed, 1994 - ★★★★ (contains spoilers)",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/9/0/4/50904-speed-0-600-0-900-crop.jpg?v=08424df13d\"/></p> <p><em>This review may contain spoilers.</em></p> <p>He lost his head.</p>\n",
+				"date_published": "2023-02-20T13:41:28-06:00",
+				"url": "https://mindofaaronw.com/2023/02/20/speed-contains-spoilers.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/02/20/the-pale-blue.html",
+				"title": "The Pale Blue Eye, 2022 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/1/8/2/4/1/718241-the-pale-blue-eye-0-600-0-900-crop.jpg?v=0ab02a8fe8\"/></p> <p>An interesting, yet painstakingly slow mystery with a twist I was not expecting.</p>\n",
+				"date_published": "2023-02-20T11:11:04-06:00",
+				"url": "https://mindofaaronw.com/2023/02/20/the-pale-blue.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/02/19/why-does-the.html",
 				
 				"content_html": "<p>Why does the US make taxes so confusing and convoluted? 🤬</p>\n",
@@ -21,7 +101,7 @@
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/5/8/0/50580-training-day-0-600-0-900-crop.jpg?v=5ce5342625\"/></p> <p>No pigeons were harmed in the fall and rise of Officer Jake Hoyt.</p>\n",
 				"date_published": "2023-02-17T12:51:19-06:00",
 				"url": "https://mindofaaronw.com/2023/02/17/training-day.html",
-				"tags": ["photos","long form posts"]
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2023/02/17/while-i-will.html",
@@ -112,7 +192,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/10/took-a-nice.html",
 				
 				"content_html": "<p>📸 Took a nice walk during a break at work and saw the UT baseball team practicing.</p>\n<p>Took this from under the scoreboard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Took a nice walk during a break at work and saw the UT baseball team practicing. \n\nTook this from under the scoreboard. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/ad01b2d3f2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📸 Took a nice walk during a break at work and saw the UT baseball team practicing. \n\nTook this from under the scoreboard. \n\n<img src=\"uploads/2023/ad01b2d3f2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-10T14:09:04-06:00",
 				"url": "https://mindofaaronw.com/2023/02/10/took-a-nice.html",
 				"tags": ["photos"]
@@ -138,7 +218,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/08/simone-wants-breakfastnow.html",
 				
 				"content_html": "<p>Someone wants breakfast…NOW.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Someone wants breakfast…NOW. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/a66edbe1af.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Someone wants breakfast…NOW. \n\n<img src=\"uploads/2023/a66edbe1af.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-08T09:09:36-06:00",
 				"url": "https://mindofaaronw.com/2023/02/08/simone-wants-breakfastnow.html",
 				"tags": ["photos","dogs"]
@@ -155,7 +235,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/07/austin-is-full.html",
 				
 				"content_html": "<p>Austin is full of some fun street art.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Austin is full of some fun street art. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/378496d3d1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Austin is full of some fun street art. \n\n<img src=\"uploads/2023/378496d3d1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-07T07:40:01-06:00",
 				"url": "https://mindofaaronw.com/2023/02/07/austin-is-full.html",
 				"tags": ["photos"]
@@ -200,7 +280,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/05/nice-little-sculpture.html",
 				
 				"content_html": "<p>Nice little sculpture park located within a city park nearby!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice little sculpture park located within a city park nearby! \n\n<img src=\"https://mindofaaronw.com/uploads/2023/c83de25f20.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Nice little sculpture park located within a city park nearby! \n\n<img src=\"uploads/2023/c83de25f20.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-05T13:26:43-06:00",
 				"url": "https://mindofaaronw.com/2023/02/05/nice-little-sculpture.html",
 				"tags": ["photos"]
@@ -218,7 +298,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/04/not-as-good.html",
 				
 				"content_html": "<p>Not as good as some others I took during the storm. But thought this one was neat with how the berries are.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not as good as some others I took during the storm. But thought this one was neat with how the berries are. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/1d107c4d6f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Not as good as some others I took during the storm. But thought this one was neat with how the berries are. \n\n<img src=\"uploads/2023/1d107c4d6f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-04T19:15:09-06:00",
 				"url": "https://mindofaaronw.com/2023/02/04/not-as-good.html",
 				"tags": ["photos"]
@@ -244,7 +324,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/03/took-this-before.html",
 				
 				"content_html": "<p>Took this before the ice thawed yesterday in Austin. Probably my favorite photo I’ve taken in a while.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took this before the ice thawed yesterday in Austin. Probably my favorite photo I’ve taken in a while. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/610c5e51d5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Took this before the ice thawed yesterday in Austin. Probably my favorite photo I’ve taken in a while. \n\n<img src=\"uploads/2023/610c5e51d5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-03T09:57:33-06:00",
 				"url": "https://mindofaaronw.com/2023/02/03/took-this-before.html",
 				"tags": ["photos"]
@@ -253,7 +333,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/02/i-dont-know.html",
 				
 				"content_html": "<p>I don’t know if this trees going to make it 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don’t know if this trees going to make it 😅\n\n<img src=\"https://mindofaaronw.com/uploads/2023/8bc878fb0b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I don’t know if this trees going to make it 😅\n\n<img src=\"uploads/2023/8bc878fb0b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-02T08:03:26-06:00",
 				"url": "https://mindofaaronw.com/2023/02/02/i-dont-know.html",
 				"tags": ["photos"]
@@ -298,7 +378,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/30/the-resident-cat.html",
 				
 				"content_html": "<p>The resident cat at one of our work buildings. I maybe am up here once a week, but always look for him.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The resident cat at one of our work buildings. I maybe am up here once a week, but always look for him. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/9400764d73.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The resident cat at one of our work buildings. I maybe am up here once a week, but always look for him. \n\n<img src=\"uploads/2023/9400764d73.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-30T07:37:50-06:00",
 				"url": "https://mindofaaronw.com/2023/01/30/the-resident-cat.html",
 				"tags": ["photos"]
@@ -388,7 +468,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/23/texas-and-austin.html",
 				
 				"content_html": "<p>Texas and Austin make it really hard to support public transportation. But I will ride the CapMetro Rail as long as I can for how convenient and easy it is for my personal commute.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Texas and Austin make it really hard to support public transportation. But I will ride the CapMetro Rail as long as I can for how convenient and easy it is for my personal commute. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/f3545f443f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Texas and Austin make it really hard to support public transportation. But I will ride the CapMetro Rail as long as I can for how convenient and easy it is for my personal commute. \n\n<img src=\"uploads/2023/f3545f443f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-23T07:28:26-06:00",
 				"url": "https://mindofaaronw.com/2023/01/23/texas-and-austin.html",
 				"tags": ["photos"]
@@ -432,7 +512,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/20/been-utilizing-readwise.html",
 				
 				"content_html": "<p>Been utilizing Readwise more and more. It unearthed a fantastic quote from <em>Man’s Search for Meaning</em>, that I had to share. Highly recommend this book.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Been utilizing Readwise more and more. It unearthed a fantastic quote from _Man’s Search for Meaning_, that I had to share. Highly recommend this book. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/d4d3586006.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Been utilizing Readwise more and more. It unearthed a fantastic quote from _Man’s Search for Meaning_, that I had to share. Highly recommend this book. \n\n<img src=\"uploads/2023/d4d3586006.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-01-20T10:08:42-06:00",
 				"url": "https://mindofaaronw.com/2023/01/20/been-utilizing-readwise.html",
 				"tags": ["books","quotes","tech"]
@@ -449,7 +529,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/19/priority-get-outside.html",
 				"title": "2023 Priority: Get Outside ",
 				"content_html": "<p>Spent the end of 2022 getting completely off grid camping. Here are some photos from the trip.</p>\n<p>One goal of mine for 2023 is to prioritize getting outside more. Whether that’s through hiking, camping, or just traveling and immersing myself into new cultures. Austin has ample options for the first two, and we have a trip planned to Italy in the spring. The year is off to a good first quarter for this goal!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Spent the end of 2022 getting completely off grid camping. Here are some photos from the trip. \n\nOne goal of mine for 2023 is to prioritize getting outside more. Whether that’s through hiking, camping, or just traveling and immersing myself into new cultures. Austin has ample options for the first two, and we have a trip planned to Italy in the spring. The year is off to a good first quarter for this goal!\n\n\n\n<img src=\"https://mindofaaronw.com/uploads/2023/c5aa7cbbd6.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://mindofaaronw.com/uploads/2023/8363a68f11.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://mindofaaronw.com/uploads/2023/fc351878ba.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://mindofaaronw.com/uploads/2023/8b8eb7b929.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Spent the end of 2022 getting completely off grid camping. Here are some photos from the trip. \n\nOne goal of mine for 2023 is to prioritize getting outside more. Whether that’s through hiking, camping, or just traveling and immersing myself into new cultures. Austin has ample options for the first two, and we have a trip planned to Italy in the spring. The year is off to a good first quarter for this goal!\n\n\n\n<img src=\"uploads/2023/c5aa7cbbd6.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/8363a68f11.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/fc351878ba.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/8b8eb7b929.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-19T15:49:55-06:00",
 				"url": "https://mindofaaronw.com/2023/01/19/priority-get-outside.html",
 				"tags": ["photos"]
@@ -476,7 +556,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/17/the-best-kind.html",
 				
 				"content_html": "<p>The best kind of office buddy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The best kind of office buddy. \n\n<img src=\"https://mindofaaronw.com/uploads/2023/f32ac7c5ce.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The best kind of office buddy. \n\n<img src=\"uploads/2023/f32ac7c5ce.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-17T06:57:13-06:00",
 				"url": "https://mindofaaronw.com/2023/01/17/the-best-kind.html",
 				"tags": ["photos","dogs"]
@@ -503,7 +583,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/15/a-nice-morning.html",
 				
 				"content_html": "<p>A nice morning today. Hope everyone’s Sunday is going well!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A nice morning today. Hope everyone’s Sunday is going well! \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/4748da5665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "A nice morning today. Hope everyone’s Sunday is going well! \n\n<img src=\"uploads/2023/4748da5665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-15T14:01:55-06:00",
 				"url": "https://mindofaaronw.com/2023/01/15/a-nice-morning.html",
 				"tags": ["photos"]
@@ -548,7 +628,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/12/not-to-be.html",
 				
 				"content_html": "<p>Not to be outdone by the sunset last night, here’s the sunrise in central Texas today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not to be outdone by the sunset last night, here’s the sunrise in central Texas today. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/c8699dd09d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Not to be outdone by the sunset last night, here’s the sunrise in central Texas today. \n\n<img src=\"uploads/2023/c8699dd09d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-12T07:45:33-06:00",
 				"url": "https://mindofaaronw.com/2023/01/12/not-to-be.html",
 				"tags": ["photos"]
@@ -557,7 +637,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/11/texas-sunsets-who.html",
 				
 				"content_html": "<p>Texas sunsets 🌅. Who can spot Saturn?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Texas sunsets 🌅. Who can spot Saturn?\n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/e7db65fb79.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Texas sunsets 🌅. Who can spot Saturn?\n\n<img src=\"uploads/2023/e7db65fb79.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-11T18:44:59-06:00",
 				"url": "https://mindofaaronw.com/2023/01/11/texas-sunsets-who.html",
 				"tags": ["photos"]
@@ -593,7 +673,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/09/165945.html",
 				
 				"content_html": "<p>Always brightens my day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Always brightens my day. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/abfbad1d3d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Always brightens my day. \n\n<img src=\"uploads/2023/abfbad1d3d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-09T16:59:45-06:00",
 				"url": "https://mindofaaronw.com/2023/01/09/165945.html",
 				"tags": ["photos"]
@@ -773,7 +853,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/06/always-a-nice.html",
 				
 				"content_html": "<p>Always a nice view when I head to campus 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Always a nice view when I head to campus 📷\n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/819851cdd2.jpg\" width=\"326\" height=\"600\" alt=\"\">\n",
+				"content_text": "Always a nice view when I head to campus 📷\n\n<img src=\"uploads/2023/819851cdd2.jpg\" width=\"326\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-06T21:44:39-06:00",
 				"url": "https://mindofaaronw.com/2023/01/06/always-a-nice.html",
 				"tags": ["photos"]
@@ -809,7 +889,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/02/spent-new-years.html",
 				
 				"content_html": "<p>Spent New Years this year away from the city and in the Texas Hill Country. My goals for 2023 include taking the roads less travelled.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spent New Years this year away from the city and in the Texas Hill Country. My goals for 2023 include taking the roads less travelled. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/d548bc2fd3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Spent New Years this year away from the city and in the Texas Hill Country. My goals for 2023 include taking the roads less travelled. \n\n<img src=\"uploads/2023/d548bc2fd3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-02T16:15:20-06:00",
 				"url": "https://mindofaaronw.com/2023/01/02/spent-new-years.html",
 				"tags": ["photos"]
