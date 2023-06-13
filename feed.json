@@ -7,10 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/13/finished-reading-light.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780369706553\">Light Years from Home</a> by Mike Chen 📚</p>\n<p>An interesting story of family drama and problems with a intergalactic alien war side plot. While I love my alien stories, I got more out of this book from the family problems side. Reminded me to reach out to those we love and remember you never really know what they’re going through, even if they’re your family.</p>\n",
+				"content_text": "Finished reading: [Light Years from Home](https://micro.blog/books/9780369706553) by Mike Chen 📚\n\nAn interesting story of family drama and problems with a intergalactic alien war side plot. While I love my alien stories, I got more out of this book from the family problems side. Reminded me to reach out to those we love and remember you never really know what they’re going through, even if they’re your family. \n",
+				"date_published": "2023-06-13T18:00:54-05:00",
+				"url": "https://mindofaaronw.com/2023/06/13/finished-reading-light.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/09/showgirls.html",
+				"title": "Showgirls, 1995 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/my/0q/ck/qq/showgirls-0-600-0-900-crop.jpg?v=2243cd1b54\"/></p> <p>Watched on Friday June 9, 2023.</p>\n",
+				"date_published": "2023-06-09T14:07:18-05:00",
+				"url": "https://mindofaaronw.com/2023/06/09/showgirls.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/09/beef.html",
+				"title": "BEEF, 2023 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/9/6/9/2/5/996925-beef-0-600-0-900-crop.jpg?v=c7399e5bdb\"/></p> <p>Watched on Friday May 26, 2023.</p>\n",
+				"date_published": "2023-06-09T13:40:21-05:00",
+				"url": "https://mindofaaronw.com/2023/06/09/beef.html",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/09/the-rock.html",
+				"title": "The Rock, 1996 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/8/1/0/46810-the-rock-0-600-0-900-crop.jpg?v=3801768f12\"/></p> <p>\"How in the name of Zeus's...BUTTHOLE...did you get out of your cell!\"</p><p>All-time quote by Nicolas Cage. This movie is funny, incredibly quotable, and a fun Michael Bay flick of old.</p>\n",
+				"date_published": "2023-06-09T11:14:50-05:00",
+				"url": "https://mindofaaronw.com/2023/06/09/the-rock.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/08/the-raid.html",
+				"title": "The Raid, 2011 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/2/6/6/78266-the-raid-0-600-0-900-crop.jpg?v=4095a2a23a\"/></p> <p>This is still the best martial arts movie I've ever seen. Non-stop action scenes that defy reality for me.</p>\n",
+				"date_published": "2023-06-08T10:29:58-05:00",
+				"url": "https://mindofaaronw.com/2023/06/08/the-raid.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/06/06/finished-reading-book.html",
 				
-				"content_html": "<p>Finished reading 📚: <a href=\"https://micro.blog/books/9781503938427\">Book of the Night</a> by Oliver Pötzsch.</p>\n<p>A fun rambunctious adventure with magic and all the cliches of the Three Musketeers.</p>\n",
-				"content_text": "Finished reading 📚: [Book of the Night](https://micro.blog/books/9781503938427) by Oliver Pötzsch.\r\n\r\nA fun rambunctious adventure with magic and all the cliches of the Three Musketeers. \n",
+				"content_html": "<p>Finished reading 📚: <a href=\"https://micro.blog/books/9781503938427\">Book of the Night</a> by Oliver Pötzsch.</p>\n<p>A fun, rambunctious adventure with magic and all the cliches of the Three Musketeers.</p>\n",
+				"content_text": "Finished reading 📚: [Book of the Night](https://micro.blog/books/9781503938427) by Oliver Pötzsch.\n\nA fun, rambunctious adventure with magic and all the cliches of the Three Musketeers. \n",
 				"date_published": "2023-06-06T09:58:01-05:00",
 				"url": "https://mindofaaronw.com/2023/06/06/finished-reading-book.html",
 				"tags": ["books"]
