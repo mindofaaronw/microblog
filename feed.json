@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/28/the-hangover.html",
+				"title": "The Hangover, 2009 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/0/1/0/0/40100-the-hangover-0-600-0-900-crop.jpg?v=6464871bf5\"/></p> <p>Not as funny as I remember but still a good time.</p>\n",
+				"date_published": "2023-06-28T19:19:48-05:00",
+				"url": "https://mindofaaronw.com/2023/06/28/the-hangover.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/27/is-there-a.html",
+				
+				"content_html": "<p>Is there a shortcut or script that will convert Markdown files to Rich Text so they look nice in Apple Notes? I really wish Apple just supported Markdown.</p>\n",
+				"content_text": "Is there a shortcut or script that will convert Markdown files to Rich Text so they look nice in Apple Notes? I really wish Apple just supported Markdown.\n",
+				"date_published": "2023-06-27T11:09:30-05:00",
+				"url": "https://mindofaaronw.com/2023/06/27/is-there-a.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/24/asteroid-city.html",
+				"title": "Asteroid City, 2023 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/6/8/5/5/5/668555-asteroid-city-0-600-0-900-crop.jpg?v=700bea7fd5\"/></p> <p>Another dazzling display of Wes Anderson’s signature style. This movie is beautiful; he uses dioramas and models in tasteful ways, and continues the vibrant palette that he made famous. </p><p><i>Asteroid City</i> captivated me with its themes of loneliness and wonder. In the end though, I can’t help but think this is a middle finger to all the Wes Anderson haters for the mixed reactions to <i>The French Dispatch</i>.</p>\n",
+				"date_published": "2023-06-24T22:31:11-05:00",
+				"url": "https://mindofaaronw.com/2023/06/24/asteroid-city.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/24/my-wife-and.html",
+				
+				"content_html": "<p>My wife and I are considering getting a second dog. We’ve got a 9 year old black lab already. Contacted a breeder getting rid of a 6 year old black lab and she said the price is still $3000, same as her puppies. Now why would I pay that for a 6 year old dog? I’ll check the shelters instead.</p>\n",
+				"content_text": "My wife and I are considering getting a second dog. We’ve got a 9 year old black lab already. Contacted a breeder getting rid of a 6 year old black lab and she said the price is still $3000, same as her puppies. Now why would I pay that for a 6 year old dog? I’ll check the shelters instead. \n",
+				"date_published": "2023-06-24T19:06:40-05:00",
+				"url": "https://mindofaaronw.com/2023/06/24/my-wife-and.html",
+				"tags": ["dogs"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/06/23/joined-a-mentor.html",
 				
 				"content_html": "<p>Joined a mentor program at work and am meeting my matched mentor for the first time (virtually) today. I am nervous because I hate talking about myself in a professional sense.</p>\n",
@@ -86,6 +122,14 @@
 				"date_published": "2023-06-21T09:04:27-05:00",
 				"url": "https://mindofaaronw.com/2023/06/21/watching-the-nintendo.html",
 				"tags": ["games"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/06/20/my-physical-media.html",
+				"title": "My Physical Media",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>List of all the physical movies I own.</p> <ul> <li> <a href=\"https://letterboxd.com/film/dune-2021/\">Dune</a> </li> <li> <a href=\"https://letterboxd.com/film/everything-everywhere-all-at-once/\">Everything Everywhere All at Once</a> </li> <li> <a href=\"https://letterboxd.com/film/the-empire-strikes-back/\">The Empire Strikes Back</a> </li> <li> <a href=\"https://letterboxd.com/film/star-wars-episode-iv-a-new-hope/\">Star Wars: Episode IV - A New Hope</a> </li> <li> <a href=\"https://letterboxd.com/film/return-of-the-jedi/\">Return of the Jedi</a> </li> <li> <a href=\"https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/\">The Lord of the Rings: The Fellowship of the Ring</a> </li> <li> <a href=\"https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/\">The Lord of the Rings: The Return of the King</a> </li> <li> <a href=\"https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/\">The Lord of the Rings: The Two Towers</a> </li> <li> <a href=\"https://letterboxd.com/film/the-matrix/\">The Matrix</a> </li> <li> <a href=\"https://letterboxd.com/film/john-wick/\">John Wick</a> </li> </ul> <p>...plus 13 more. <a href=\"https://letterboxd.com/mindofaaronw/list/my-physical-media/\">View the full list on Letterboxd</a>.</p>\n",
+				"date_published": "2023-06-20T14:26:54-05:00",
+				"url": "https://mindofaaronw.com/2023/06/20/my-physical-media.html"
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2023/06/20/extraction.html",
