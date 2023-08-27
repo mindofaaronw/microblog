@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/08/27/first-business-trip.html",
+				
+				"content_html": "<p>First business trip with the new job. Here we go 💪🏻</p>\n",
+				"content_text": "First business trip with the new job. Here we go 💪🏻 \n",
+				"date_published": "2023-08-27T06:21:08-05:00",
+				"url": "https://mindofaaronw.com/2023/08/27/first-business-trip.html",
+				"tags": ["work"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/08/20/broke-my-cheap.html",
+				
+				"content_html": "<p>Broke my cheap soundbar during the move. Birthday treat to myself, let’s get a Sonos one!</p>\n",
+				"content_text": "Broke my cheap soundbar during the move. Birthday treat to myself, let’s get a Sonos one!\n",
+				"date_published": "2023-08-20T18:47:19-05:00",
+				"url": "https://mindofaaronw.com/2023/08/20/broke-my-cheap.html",
+				"tags": ["tech","tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/08/19/on-the-flip.html",
+				
+				"content_html": "<p>On the flip side. I’m already enjoying exploring new places and restaurants in the area. Adventure awaits! Now for the wife and dog to arrive.</p>\n",
+				"content_text": "On the flip side. I’m already enjoying exploring new places and restaurants in the area. Adventure awaits! Now for the wife and dog to arrive. \n",
+				"date_published": "2023-08-19T09:26:55-05:00",
+				"url": "https://mindofaaronw.com/2023/08/19/on-the-flip.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/08/19/benefits-of-moving.html",
+				
+				"content_html": "<p>Benefits of moving into a smaller house? It forces me to evaluate whether I really need the item.</p>\n<p>But I still have to spend all weekend unpacking 😅</p>\n",
+				"content_text": "Benefits of moving into a smaller house? It forces me to evaluate whether I really need the item. \n\nBut I still have to spend all weekend unpacking 😅\n",
+				"date_published": "2023-08-19T09:23:16-05:00",
+				"url": "https://mindofaaronw.com/2023/08/19/benefits-of-moving.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/08/17/i-consider-myself.html",
+				
+				"content_html": "<p>I consider myself a pretty supportive person. But there is nothing worse than seeing your wife go through a difficult time at her job and not be able to help in the moment. I don&rsquo;t like seeing people miserable 😔</p>\n",
+				"content_text": "I consider myself a pretty supportive person. But there is nothing worse than seeing your wife go through a difficult time at her job and not be able to help in the moment. I don't like seeing people miserable 😔\n",
+				"date_published": "2023-08-17T20:22:53-05:00",
+				"url": "https://mindofaaronw.com/2023/08/17/i-consider-myself.html"
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/08/16/starting-a-new.html",
 				
 				"content_html": "<p>Starting a new job and preparing to move across the state of Texas has really cut into my consumption and really everything else. Can’t wait for things to be done and next week to start settling down 😮‍💨</p>\n",
