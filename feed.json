@@ -7,6 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/09/07/football-is-back.html",
+				
+				"content_html": "<p>Football is back 😊</p>\n",
+				"content_text": "Football is back 😊\n",
+				"date_published": "2023-09-07T20:16:20-05:00",
+				"url": "https://mindofaaronw.com/2023/09/07/football-is-back.html",
+				"tags": ["sports"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/09/05/aftersun.html",
+				"title": "Aftersun, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-600-0-900-crop.jpg?v=5ce2118fca\"/></p> <p>Finally got a chance to watch this on the airplane yesterday. I hated the pace of this movie for the first half. But by the end I was on the verge of tears. It won’t be for everyone, but if it works, it hits all the heart strings.</p>\n",
+				"date_published": "2023-09-05T20:00:54-05:00",
+				"url": "https://mindofaaronw.com/2023/09/05/aftersun.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/09/04/met-a-lovely.html",
+				
+				"content_html": "<p>Met a lovely Middle Eastern cafe owner here in San Diego. Turns out he is a painter and a poet. Fascinating conversations with him last night, and the food was incredible. This is one of my favorite things to do while traveling 😊</p>\n",
+				"content_text": "Met a lovely Middle Eastern cafe owner here in San Diego. Turns out he is a painter and a poet. Fascinating conversations with him last night, and the food was incredible. This is one of my favorite things to do while traveling 😊\n",
+				"date_published": "2023-09-04T13:08:53-05:00",
+				"url": "https://mindofaaronw.com/2023/09/04/met-a-lovely.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/09/02/the-departed.html",
+				"title": "The Departed, 2006 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/jr/th/pu/pb/laefkgrfa3oKwvBtWTBtf2suiI4-0-600-0-900-crop.jpg?v=f5d8231026\"/></p> <p>Watched on Friday September 1, 2023.</p>\n",
+				"date_published": "2023-09-02T18:54:33-05:00",
+				"url": "https://mindofaaronw.com/2023/09/02/the-departed.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/09/02/rip-jimmy-it.html",
+				
+				"content_html": "<p>RIP Jimmy. It will always be 5 o’clock somewhere.</p>\n",
+				"content_text": "RIP Jimmy. It will always be 5 o’clock somewhere. \n",
+				"date_published": "2023-09-02T10:36:04-05:00",
+				"url": "https://mindofaaronw.com/2023/09/02/rip-jimmy-it.html",
+				"tags": ["music"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/09/01/seatac-might-be.html",
 				
 				"content_html": "<p>SeaTac might be the worst airport in America.</p>\n",
