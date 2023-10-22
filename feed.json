@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/10/21/my-aeropress-came.html",
+				
+				"content_html": "<p>My AeroPress came this afternoon. Can’t wait to try it tomorrow morning ☕️</p>\n",
+				"content_text": "My AeroPress came this afternoon. Can’t wait to try it tomorrow morning ☕️ \n",
+				"date_published": "2023-10-21T20:08:32-05:00",
+				"url": "https://mindofaaronw.com/2023/10/21/my-aeropress-came.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/10/16/great-quote-i.html",
+				
+				"content_html": "<p>Great quote. I miss reading. Need to prioritize it this week.</p>\n<blockquote>\n<p>We must read because it is the only way to truly know what it feels like to be in someone else’s mind.</p>\n</blockquote>\n",
+				"content_text": "Great quote. I miss reading. Need to prioritize it this week.\r\n>We must read because it is the only way to truly know what it feels like to be in someone else’s mind.\n",
+				"date_published": "2023-10-16T20:20:33-05:00",
+				"url": "https://mindofaaronw.com/2023/10/16/great-quote-i.html",
+				"tags": ["books","quotes"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/10/16/mark-normand-soup.html",
 				"title": "Mark Normand: Soup to Nuts, 2023 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
