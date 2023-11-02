@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/11/01/very-interesting-concept.html",
+				
+				"content_html": "<p><a href=\"https://new.computer\">Very interesting concept</a> from Jason Yuan and Sam Whitmore. new.computer looks like a practical use of AI to complement our lives. Very intrigued, and will be following closely.</p>\n",
+				"content_text": "[Very interesting concept](https://new.computer) from Jason Yuan and Sam Whitmore. new.computer looks like a practical use of AI to complement our lives. Very intrigued, and will be following closely.\n",
+				"date_published": "2023-11-01T19:17:00-05:00",
+				"url": "https://mindofaaronw.com/2023/11/01/very-interesting-concept.html",
+				"tags": ["tech","apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/10/31/pain-hustlers.html",
+				"title": "Pain Hustlers, 2023 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/7/7/1/8/2/777182-pain-hustlers-0-600-0-900-crop.jpg?v=f0034db6d6\"/></p> <p>Watched on Tuesday October 31, 2023.</p>\n",
+				"date_published": "2023-10-31T21:31:13-05:00",
+				"url": "https://mindofaaronw.com/2023/10/31/pain-hustlers.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/10/31/wasnt-anticipating-not.html",
+				
+				"content_html": "<p>Wasn&rsquo;t anticipating not getting a single trick-or-treater tonight lol</p>\n",
+				"content_text": "Wasn't anticipating not getting a single trick-or-treater tonight lol\n",
+				"date_published": "2023-10-31T21:16:05-05:00",
+				"url": "https://mindofaaronw.com/2023/10/31/wasnt-anticipating-not.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/10/31/i-certainly-wasnt.html",
+				
+				"content_html": "<p>I certainly wasn&rsquo;t expecting this in Game 4. Wish there were more close games like Game 1 🤷🏻‍♂️</p>\n",
+				"content_text": "I certainly wasn't expecting this in Game 4. Wish there were more close games like Game 1 🤷🏻‍♂️\n",
+				"date_published": "2023-10-31T21:01:47-05:00",
+				"url": "https://mindofaaronw.com/2023/10/31/i-certainly-wasnt.html",
+				"tags": ["sports"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/10/29/giving-mastodon-another.html",
+				
+				"content_html": "<p>Giving Mastodon another in-depth look. Pretty tired of Twitter&rsquo;s amount of clutter. Wish I could get MLB and NFL content completely off it though to fully make my switch.</p>\n",
+				"content_text": "Giving Mastodon another in-depth look. Pretty tired of Twitter's amount of clutter. Wish I could get MLB and NFL content completely off it though to fully make my switch.\n",
+				"date_published": "2023-10-29T19:18:13-05:00",
+				"url": "https://mindofaaronw.com/2023/10/29/giving-mastodon-another.html",
+				"tags": ["sports","tech","apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/10/29/taylor-swift-the.html",
+				"title": "Taylor Swift: The Eras Tour, 2023 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/0/4/6/2/2/7/1046227-taylor-swift-the-eras-tour-0-600-0-900-crop.jpg?v=e9a1d6d57d\"/></p> <p>The production value of this is pretty crazy lol.</p>\n",
+				"date_published": "2023-10-29T18:12:08-05:00",
+				"url": "https://mindofaaronw.com/2023/10/29/taylor-swift-the.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/10/28/old-dads.html",
+				"title": "Old Dads, 2023 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/8/9/5/0/4/889504-old-dads-0-600-0-900-crop.jpg?v=7115c613cf\"/></p> <p>Watched on Saturday October 28, 2023.</p>\n",
+				"date_published": "2023-10-28T20:26:56-05:00",
+				"url": "https://mindofaaronw.com/2023/10/28/old-dads.html"
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/10/24/stolen-youth-inside.html",
 				"title": "Stolen Youth: Inside the Cult at Sarah Lawrence, 2023 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
