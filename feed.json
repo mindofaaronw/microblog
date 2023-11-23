@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2023/11/22/the-grinch.html",
+				"title": "The Grinch, 2018 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/9/2/6/8/8/292688-the-grinch-0-600-0-900-crop.jpg?v=d3d620a3f8\"/></p> <p>Watched on Wednesday November 22, 2023.</p>\n",
+				"date_published": "2023-11-22T20:55:54-06:00",
+				"url": "https://mindofaaronw.com/2023/11/22/the-grinch.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/11/20/photo-dump-from.html",
+				
+				"content_html": "<p>Photo dump from the weekend with the CampSnap camera. Testing it out and having fun! Definitely a daytime only camera, but I&rsquo;m okay with that.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Photo dump from the weekend with the CampSnap camera. Testing it out and having fun! Definitely a daytime only camera, but I'm okay with that.\n\n<img src=\"uploads/2023/sunp0015.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/sunp0020.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/sunp0018.jpeg\" width=\"411\" height=\"600\" alt=\"\"><img src=\"uploads/2023/sunp0009.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-20T18:54:59-06:00",
+				"url": "https://mindofaaronw.com/2023/11/20/photo-dump-from.html",
+				"tags": ["photos","campsnap"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2023/11/19/full-circle.html",
+				"title": "Full Circle, 2023 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/0/3/4/6/7/9/1034679-full-circle-0-600-0-900-crop.jpg?v=ecdf4903e2\"/></p> <p>Watched on Sunday November 19, 2023.</p>\n",
+				"date_published": "2023-11-19T20:26:49-06:00",
+				"url": "https://mindofaaronw.com/2023/11/19/full-circle.html"
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2023/11/16/its-not-often.html",
 				
 				"content_html": "<p>It’s not often or really ever that I buy anything from an Instagram ad. However I decided to purchase a CampSnap disposable-like camera and am having a blast with it so far.</p>\n<p>It’s like carrying a digital disposable camera around in your pocket. No screen, just point and shoot and see the results later. Road trip this weekend and looking forward to overusing it!</p>\n",
