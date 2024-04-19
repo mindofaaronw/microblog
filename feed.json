@@ -7,20 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/04/18/finished-reading-station.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780385353311\">Station 11</a> by Emily St. John Mandel 📚</p>\n",
+				"content_text": "Finished reading: [Station 11](https://micro.blog/books/9780385353311) by Emily St. John Mandel 📚\n",
+				"date_published": "2024-04-18T19:12:42-05:00",
+				"url": "https://mindofaaronw.com/2024/04/18/finished-reading-station.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/04/17/how-to-have.html",
+				"title": "How to Have Sex, 2023 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/9/3/5/0/969350-how-to-have-sex-0-600-0-900-crop.jpg?v=bcce0cabfa\"/></p> <p>Watched on Wednesday April 17, 2024.</p>\n",
+				"date_published": "2024-04-17T19:53:16-05:00",
+				"url": "https://mindofaaronw.com/2024/04/17/how-to-have.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/04/16/driveaway-dolls.html",
+				"title": "Drive-Away Dolls, 2024 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/6/1/2/5/0/861250-drive-away-dolls-0-600-0-900-crop.jpg?v=2e83bbe648\"/></p> <p>Watched on Tuesday April 16, 2024.</p>\n",
+				"date_published": "2024-04-16T20:42:30-05:00",
+				"url": "https://mindofaaronw.com/2024/04/16/driveaway-dolls.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/04/12/dirty-rotten-scoundrels.html",
 				"title": "Dirty Rotten Scoundrels, 1988 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/5/0/8/46508-dirty-rotten-scoundrels-0-600-0-900-crop.jpg?v=e1a200a15d\"/></p> <p>Watched on Friday April 12, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/5/0/8/46508-dirty-rotten-scoundrels-0-600-0-900-crop.jpg?v=e1a200a15d\" /></p>\n<p>Watched on Friday April 12, 2024.</p>\n",
 				"date_published": "2024-04-12T21:04:46-05:00",
-				"url": "https://mindofaaronw.com/2024/04/12/dirty-rotten-scoundrels.html"
+				"url": "https://mindofaaronw.com/2024/04/12/dirty-rotten-scoundrels.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/04/07/monkey-man.html",
 				"title": "Monkey Man, 2024 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/8/7/5/1/488751-monkey-man-0-600-0-900-crop.jpg?v=0c25a18552\"/></p> <p>What a directorial debut. An action packed thrill ride that delivers. Hats off Dev.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/8/7/5/1/488751-monkey-man-0-600-0-900-crop.jpg?v=0c25a18552\" /></p>\n<p>What a directorial debut. An action packed thrill ride that delivers. Hats off Dev.</p>\n",
 				"date_published": "2024-04-07T17:33:41-05:00",
-				"url": "https://mindofaaronw.com/2024/04/07/monkey-man.html"
+				"url": "https://mindofaaronw.com/2024/04/07/monkey-man.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/04/02/photo-challenge-day.html",
