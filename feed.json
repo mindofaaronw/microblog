@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/04/24/shgun.html",
+				"title": "Shōgun, 2024 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/1/2/4/8/7/2/1124872-shogun-0-600-0-900-crop.jpg?v=08ed9007ba\"/></p> <p>Worth every minute.</p>\n",
+				"date_published": "2024-04-24T20:43:17-05:00",
+				"url": "https://mindofaaronw.com/2024/04/24/shgun.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/04/22/think-im-late.html",
+				
+				"content_html": "<p>Think I&rsquo;m late to the party here, but <em>Blue-Eyed Samurai</em> is an excellent show.</p>\n",
+				"content_text": "Think I'm late to the party here, but _Blue-Eyed Samurai_ is an excellent show. \n",
+				"date_published": "2024-04-22T20:20:12-05:00",
+				"url": "https://mindofaaronw.com/2024/04/22/think-im-late.html",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/04/20/dream-scenario.html",
+				"title": "Dream Scenario, 2023 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/3/9/6/9/1/739691-dream-scenario-0-600-0-900-crop.jpg?v=bd5ff0ede9\" /></p>\n<p>I too dream of a balding Nic Cage.</p>\n",
+				"date_published": "2024-04-20T20:12:18-05:00",
+				"url": "https://mindofaaronw.com/2024/04/20/dream-scenario.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/04/20/civil-war.html",
+				"title": "Civil War, 2024 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/3/4/6/5/6/834656-civil-war-0-600-0-900-crop.jpg?v=aefec33dbe\" /></p>\n<p>Watched on Saturday April 20, 2024.</p>\n",
+				"date_published": "2024-04-20T15:34:04-05:00",
+				"url": "https://mindofaaronw.com/2024/04/20/civil-war.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/04/18/finished-reading-station.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780385353311\">Station 11</a> by Emily St. John Mandel 📚</p>\n",
@@ -19,9 +54,10 @@
 				"id": "http://mindofaaronw.micro.blog/2024/04/17/how-to-have.html",
 				"title": "How to Have Sex, 2023 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/9/3/5/0/969350-how-to-have-sex-0-600-0-900-crop.jpg?v=bcce0cabfa\"/></p> <p>Watched on Wednesday April 17, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/9/3/5/0/969350-how-to-have-sex-0-600-0-900-crop.jpg?v=bcce0cabfa\" /></p>\n<p>Watched on Wednesday April 17, 2024.</p>\n",
 				"date_published": "2024-04-17T19:53:16-05:00",
-				"url": "https://mindofaaronw.com/2024/04/17/how-to-have.html"
+				"url": "https://mindofaaronw.com/2024/04/17/how-to-have.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/04/16/driveaway-dolls.html",
