@@ -7,20 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/05/04/my-ios-wishlist.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>My iOS 18 Wishlist: a Journal app for iPad and Mac. I really hate typing for lots of text without a keyboard and this would make me utilize the app much more.</p>\n",
+				"date_published": "2024-05-04T16:18:55-05:00",
+				"url": "https://mindofaaronw.com/2024/05/04/my-ios-wishlist.html",
+				"tags": ["apps","apple"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/05/04/faceoff.html",
+				"title": "Face/Off, 1997 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/3/9/8/51398-face-off-0-600-0-900-crop.jpg?v=d5e85f6afa\" /></p>\n<p>What an action packed, goofy, thrill ride. I miss the wild and crazy action movies of the 80s and 90s.</p>\n",
+				"date_published": "2024-05-04T16:12:05-05:00",
+				"url": "https://mindofaaronw.com/2024/05/04/faceoff.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/05/04/fun-little-app.html",
+				
+				"content_html": "<p>Fun little <a href=\"https://aeromatic.app/\">app to track your AeroPress recipes</a>. I need to use mine more, it makes such a great cup of coffee.</p>\n",
+				"content_text": "Fun little [app to track your AeroPress recipes](https://aeromatic.app/). I need to use mine more, it makes such a great cup of coffee.\n",
+				"date_published": "2024-05-04T15:56:56-05:00",
+				"url": "https://mindofaaronw.com/2024/05/04/fun-little-app.html",
+				"tags": ["coffee"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/05/04/ive-been-reflecting.html",
+				
+				"content_html": "<p>I&rsquo;ve been reflecting on my notes and storage again and while I enjoy Apple Notes, I am always looking for something platform agnostic. Does anyone have any experience using <a href=\"https://anytype.io/\">Anytype</a>? What is the consensus?\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\nLooks like a mix between Notion and OneNote to me.</p>\n",
+				"content_text": "I've been reflecting on my notes and storage again and while I enjoy Apple Notes, I am always looking for something platform agnostic. Does anyone have any experience using [Anytype](https://anytype.io/)? What is the consensus?\r\n<br>\r\n<br>\r\nLooks like a mix between Notion and OneNote to me.\n",
+				"date_published": "2024-05-04T15:38:00-05:00",
+				"url": "https://mindofaaronw.com/2024/05/04/ive-been-reflecting.html",
+				"tags": ["apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/05/04/silent-night.html",
+				"title": "Silent Night, 2023 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/0/2/1/1/3/802113-silent-night-0-600-0-900-crop.jpg?v=0a1b19d78c\" /></p>\n<p>Watched on Sunday December 17, 2023.</p>\n",
+				"date_published": "2024-05-04T15:01:42-05:00",
+				"url": "https://mindofaaronw.com/2024/05/04/silent-night.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/04/29/sexy-beast.html",
 				"title": "Sexy Beast, 2000 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/0i/uu/90/yq/t1nDiWheu0HlOZA8thaESVCXpHr-0-600-0-900-crop.jpg?v=e8429aa8b3\"/></p> <p>This movie rules and Ben Kingsley does too. You will learn new words like “bumflufferies”.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/0i/uu/90/yq/t1nDiWheu0HlOZA8thaESVCXpHr-0-600-0-900-crop.jpg?v=e8429aa8b3\" /></p>\n<p>This movie rules and Ben Kingsley does too. You will learn new words like “bumflufferies”.</p>\n",
 				"date_published": "2024-04-29T21:22:46-05:00",
-				"url": "https://mindofaaronw.com/2024/04/29/sexy-beast.html"
+				"url": "https://mindofaaronw.com/2024/04/29/sexy-beast.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/04/28/shithouse.html",
 				"title": "Shithouse, 2020 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/6/3/0/1/7/563017-shithouse-0-600-0-900-crop.jpg?v=5919e170d9\"/></p> <p>Watched on Sunday April 28, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/6/3/0/1/7/563017-shithouse-0-600-0-900-crop.jpg?v=5919e170d9\" /></p>\n<p>Watched on Sunday April 28, 2024.</p>\n",
 				"date_published": "2024-04-28T20:46:23-05:00",
-				"url": "https://mindofaaronw.com/2024/04/28/shithouse.html"
+				"url": "https://mindofaaronw.com/2024/04/28/shithouse.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/04/28/as-someone-with.html",
@@ -125,7 +172,7 @@
 				"id": "http://mindofaaronw.micro.blog/2024/04/02/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo Challenge Day 2: Flower</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo Challenge Day 2: Flower \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2024/0105ddde14.jpg\" width=\"450\" height=\"600\" alt=\"Red spider lily flowers in garden bed. Left side has stone border around lillies. \">\n",
+				"content_text": "Photo Challenge Day 2: Flower \n\n<img src=\"uploads/2024/0105ddde14.jpg\" width=\"450\" height=\"600\" alt=\"Red spider lily flowers in garden bed. Left side has stone border around lillies. \">\n",
 				"date_published": "2024-04-02T20:45:00-05:00",
 				"url": "https://mindofaaronw.com/2024/04/02/photo-challenge-day.html",
 				"tags": ["photochallenge"]
@@ -134,7 +181,7 @@
 				"id": "http://mindofaaronw.micro.blog/2024/04/01/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 1: Toy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 1: Toy\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2024/50b6917a42.jpg\" width=\"450\" height=\"600\" alt=\"Close up of two Lego figurines. The left one is a man and he has a top hat and a red coffee cup in his hand. The right one is a woman and she has a chefs hat and a red coffee cup in her hand. \">\n",
+				"content_text": "Photo challenge day 1: Toy\n\n<img src=\"uploads/2024/50b6917a42.jpg\" width=\"450\" height=\"600\" alt=\"Close up of two Lego figurines. The left one is a man and he has a top hat and a red coffee cup in his hand. The right one is a woman and she has a chefs hat and a red coffee cup in her hand. \">\n",
 				"date_published": "2024-04-01T09:04:36-05:00",
 				"url": "https://mindofaaronw.com/2024/04/01/photo-challenge-day.html",
 				"tags": ["photochallenge"]
@@ -502,8 +549,8 @@
 			{
 				"id": "http://mindofaaronw.micro.blog/2023/12/26/i-have-a.html",
 				
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/96354/2023/2a1ce78a-ba11-42a9-a856-5ccbc81c814b.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/96354/2023/0a06300f-57e5-40d4-b77f-6a08f9384a73.jpg\" alt=\"\"></p>\n<p>I have a few Funkos in the house. Decided to try the image generator for me and the results are too funny 😂</p>\n",
-				"content_text": "![](https://cdn.uploads.micro.blog/96354/2023/2a1ce78a-ba11-42a9-a856-5ccbc81c814b.jpg)\n\n![](https://cdn.uploads.micro.blog/96354/2023/0a06300f-57e5-40d4-b77f-6a08f9384a73.jpg)\n\nI have a few Funkos in the house. Decided to try the image generator for me and the results are too funny 😂\n",
+				"content_html": "<p><img src=\"https://mindofaaronw.com/uploads/2023/2a1ce78a-ba11-42a9-a856-5ccbc81c814b.jpg\" alt=\"\"></p>\n<p><img src=\"https://mindofaaronw.com/uploads/2023/0a06300f-57e5-40d4-b77f-6a08f9384a73.jpg\" alt=\"\"></p>\n<p>I have a few Funkos in the house. Decided to try the image generator for me and the results are too funny 😂</p>\n",
+				"content_text": "![](https://mindofaaronw.com/uploads/2023/2a1ce78a-ba11-42a9-a856-5ccbc81c814b.jpg)\n\n![](https://mindofaaronw.com/uploads/2023/0a06300f-57e5-40d4-b77f-6a08f9384a73.jpg)\n\nI have a few Funkos in the house. Decided to try the image generator for me and the results are too funny 😂\n",
 				"date_published": "2023-12-26T20:01:28-05:00",
 				"url": "https://mindofaaronw.com/2023/12/26/i-have-a.html",
 				"tags": ["photos","apps"]
@@ -530,7 +577,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/12/25/wife-and-i.html",
 				
 				"content_html": "<p>Wife and I both have colds for the holidays. But yesterday we were able to get out and enjoyoy a Yemeni coffee shop in Dallas. Quite delicious.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wife and I both have colds for the holidays. But yesterday we were able to get out and enjoyoy a Yemeni coffee shop in Dallas. Quite delicious. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/893acfd1fd.jpg\" width=\"450\" height=\"600\" alt=\"Assortment of beverages in glass cups. Pastries in foreground on wooden serving platter. \">\n",
+				"content_text": "Wife and I both have colds for the holidays. But yesterday we were able to get out and enjoyoy a Yemeni coffee shop in Dallas. Quite delicious. \n\n<img src=\"uploads/2023/893acfd1fd.jpg\" width=\"450\" height=\"600\" alt=\"Assortment of beverages in glass cups. Pastries in foreground on wooden serving platter. \">\n",
 				"date_published": "2023-12-25T10:08:34-05:00",
 				"url": "https://mindofaaronw.com/2023/12/25/wife-and-i.html",
 				"tags": ["photos","life"]
@@ -701,7 +748,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/12/03/more-recent-photos.html",
 				
 				"content_html": "<p>More recent photos 📸 . Quite enjoying the CampSnap camera.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "More recent photos 📸 . Quite enjoying the CampSnap camera. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/adbab041e1.jpg\" width=\"266\" height=\"600\" alt=\"Telephone pole on blue sunny skyline. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/7cef432203.jpg\" width=\"510\" height=\"600\" alt=\"Red brick castle-like building. Large Romanesque towers on the sides and top. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/5ce2f2a577.jpg\" width=\"538\" height=\"600\" alt=\"Black Labrador retriever intensely focused on a ball during fetch. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/02dc702962.jpg\" width=\"450\" height=\"600\" alt=\"Dallas night skyline. Skyscraper with candy cane red and white lights surrounding silhouette of the skyscraper. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/501be37138.jpg\" width=\"600\" height=\"323\" alt=\"Hand painted pumpkins. \">\n",
+				"content_text": "More recent photos 📸 . Quite enjoying the CampSnap camera. \n\n<img src=\"uploads/2023/adbab041e1.jpg\" width=\"266\" height=\"600\" alt=\"Telephone pole on blue sunny skyline. \"><img src=\"uploads/2023/7cef432203.jpg\" width=\"510\" height=\"600\" alt=\"Red brick castle-like building. Large Romanesque towers on the sides and top. \"><img src=\"uploads/2023/5ce2f2a577.jpg\" width=\"538\" height=\"600\" alt=\"Black Labrador retriever intensely focused on a ball during fetch. \"><img src=\"uploads/2023/02dc702962.jpg\" width=\"450\" height=\"600\" alt=\"Dallas night skyline. Skyscraper with candy cane red and white lights surrounding silhouette of the skyscraper. \"><img src=\"uploads/2023/501be37138.jpg\" width=\"600\" height=\"323\" alt=\"Hand painted pumpkins. \">\n",
 				"date_published": "2023-12-03T12:13:08-05:00",
 				"url": "https://mindofaaronw.com/2023/12/03/more-recent-photos.html",
 				"tags": ["photos","campsnap"]
@@ -710,7 +757,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/12/03/spent-friday-visiting.html",
 				
 				"content_html": "<p>Spent Friday visiting the JFK Sixth Floor Museum. Pretty fascinating place. 60 years ago now.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Spent Friday visiting the JFK Sixth Floor Museum. Pretty fascinating place. 60 years ago now. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/5a3209be92.jpg\" width=\"600\" height=\"450\" alt=\"The grassy knoll\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/a38753286f.jpg\" width=\"419\" height=\"600\" alt=\"White facade with sun shining through. Trees covering half the background. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/a879ad5f9e.jpg\" width=\"450\" height=\"600\" alt=\"Boxes arranged by a window. Alleged place JFK was shot from. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/5fc8282cbb.jpg\" width=\"579\" height=\"600\" alt=\"Concrete square looking into water. \">\n",
+				"content_text": "Spent Friday visiting the JFK Sixth Floor Museum. Pretty fascinating place. 60 years ago now. \n\n<img src=\"uploads/2023/5a3209be92.jpg\" width=\"600\" height=\"450\" alt=\"The grassy knoll\"><img src=\"uploads/2023/a38753286f.jpg\" width=\"419\" height=\"600\" alt=\"White facade with sun shining through. Trees covering half the background. \"><img src=\"uploads/2023/a879ad5f9e.jpg\" width=\"450\" height=\"600\" alt=\"Boxes arranged by a window. Alleged place JFK was shot from. \"><img src=\"uploads/2023/5fc8282cbb.jpg\" width=\"579\" height=\"600\" alt=\"Concrete square looking into water. \">\n",
 				"date_published": "2023-12-03T11:59:05-05:00",
 				"url": "https://mindofaaronw.com/2023/12/03/spent-friday-visiting.html",
 				"tags": ["photos","campsnap"]
@@ -800,7 +847,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/11/20/photo-dump-from.html",
 				
 				"content_html": "<p>Photo dump from the weekend with the CampSnap camera. Testing it out and having fun! Definitely a daytime only camera, but I&rsquo;m okay with that.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Photo dump from the weekend with the CampSnap camera. Testing it out and having fun! Definitely a daytime only camera, but I'm okay with that.\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/sunp0015.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/sunp0020.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/sunp0018.jpeg\" width=\"411\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/sunp0009.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo dump from the weekend with the CampSnap camera. Testing it out and having fun! Definitely a daytime only camera, but I'm okay with that.\n\n<img src=\"uploads/2023/sunp0015.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/sunp0020.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/sunp0018.jpeg\" width=\"411\" height=\"600\" alt=\"\"><img src=\"uploads/2023/sunp0009.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-20T19:54:59-05:00",
 				"url": "https://mindofaaronw.com/2023/11/20/photo-dump-from.html",
 				"tags": ["photos","campsnap"]
@@ -1619,7 +1666,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/07/07/years-ago-today.html",
 				
 				"content_html": "<p>5 years ago today we adopted this wonderful canine ❤️🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "5 years ago today we adopted this wonderful canine ❤️🐶\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/71a8e95b27.jpg\" width=\"450\" height=\"600\" alt=\"Black Labrador retriever laying in grass. Orange and blue ball in its mouth. Teal collar around neck. \">\n",
+				"content_text": "5 years ago today we adopted this wonderful canine ❤️🐶\n\n<img src=\"uploads/2023/71a8e95b27.jpg\" width=\"450\" height=\"600\" alt=\"Black Labrador retriever laying in grass. Orange and blue ball in its mouth. Teal collar around neck. \">\n",
 				"date_published": "2023-07-07T17:59:06-05:00",
 				"url": "https://mindofaaronw.com/2023/07/07/years-ago-today.html",
 				"tags": ["dogs"]
@@ -1673,7 +1720,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/07/04/beer-coffee-fourth.html",
 				
 				"content_html": "<p>Beer, coffee, Fourth of July 🍻☕️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Beer, coffee, Fourth of July 🍻☕️\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/10cffdd5c7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Beer, coffee, Fourth of July 🍻☕️\n\n<img src=\"uploads/2023/10cffdd5c7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-04T12:21:53-05:00",
 				"url": "https://mindofaaronw.com/2023/07/04/beer-coffee-fourth.html",
 				"tags": ["photos"]
@@ -1934,7 +1981,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/06/17/photo-dump-from.html",
 				
 				"content_html": "<p>Photo dump from Mexico trip this week. Had a good time but also ended up with 6 stitches in my hand 😅</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Photo dump from Mexico trip this week. Had a good time but also ended up with 6 stitches in my hand 😅\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/image.jpg\" width=\"449\" height=\"600\" alt=\"Empty swimming pool in the foreground with a Spanish style building in background. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/1608ecdbf8.jpg\" width=\"556\" height=\"600\" alt=\"Street art of a smiling cup of coffee. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/03a636a327.jpg\" width=\"450\" height=\"600\" alt=\"A feral cat sitting in a chair on a hotel patio. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/28ac5e24b1.jpg\" width=\"600\" height=\"429\" alt=\"Street art in a Mexican style showing a jaguar head with a zebra body. \"><img src=\"https://cdn.uploads.micro.blog/96354/2023/f10b413624.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo dump from Mexico trip this week. Had a good time but also ended up with 6 stitches in my hand 😅\n\n<img src=\"uploads/2023/image.jpg\" width=\"449\" height=\"600\" alt=\"Empty swimming pool in the foreground with a Spanish style building in background. \"><img src=\"uploads/2023/1608ecdbf8.jpg\" width=\"556\" height=\"600\" alt=\"Street art of a smiling cup of coffee. \"><img src=\"uploads/2023/03a636a327.jpg\" width=\"450\" height=\"600\" alt=\"A feral cat sitting in a chair on a hotel patio. \"><img src=\"uploads/2023/28ac5e24b1.jpg\" width=\"600\" height=\"429\" alt=\"Street art in a Mexican style showing a jaguar head with a zebra body. \"><img src=\"uploads/2023/f10b413624.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-17T07:34:32-05:00",
 				"url": "https://mindofaaronw.com/2023/06/17/photo-dump-from.html",
 				"tags": ["photos","travel","mexico"]
@@ -2033,7 +2080,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/06/03/little-friends-while.html",
 				
 				"content_html": "<p>Little friends while doing yard work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Little friends while doing yard work. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/08cae13f88.jpg\" width=\"450\" height=\"600\" alt=\"A green insect against a wooden fence, up close. \">\n",
+				"content_text": "Little friends while doing yard work. \n\n<img src=\"uploads/2023/08cae13f88.jpg\" width=\"450\" height=\"600\" alt=\"A green insect against a wooden fence, up close. \">\n",
 				"date_published": "2023-06-03T14:33:47-05:00",
 				"url": "https://mindofaaronw.com/2023/06/03/little-friends-while.html",
 				"tags": ["photos"]
@@ -2150,7 +2197,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/05/22/saw-this-butterfly.html",
 				
 				"content_html": "<p>Saw this butterfly <em>while</em> walking the dog. I’m not knowledgeable in identifying it, but I thought it was neat that it was so large and took up the whole leaf!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Saw this butterfly *while* walking the dog. I’m not knowledgeable in identifying it, but I thought it was neat that it was so large and took up the whole leaf!\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/78db1223ce.jpg\" width=\"450\" height=\"600\" alt=\"A large butterfly resting on a leaf. \">\n",
+				"content_text": "Saw this butterfly *while* walking the dog. I’m not knowledgeable in identifying it, but I thought it was neat that it was so large and took up the whole leaf!\n\n<img src=\"uploads/2023/78db1223ce.jpg\" width=\"450\" height=\"600\" alt=\"A large butterfly resting on a leaf. \">\n",
 				"date_published": "2023-05-22T10:27:44-05:00",
 				"url": "https://mindofaaronw.com/2023/05/22/saw-this-butterfly.html",
 				"tags": ["photos"]
@@ -2357,7 +2404,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/04/30/sometimes-its-the.html",
 				
 				"content_html": "<p>Sometimes it’s the little things that fill you with wonder.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometimes it’s the little things that fill you with wonder. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/43c95e7169.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Sometimes it’s the little things that fill you with wonder. \n\n<img src=\"uploads/2023/43c95e7169.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-30T17:28:05-05:00",
 				"url": "https://mindofaaronw.com/2023/04/30/sometimes-its-the.html",
 				"tags": ["photos"]
@@ -2366,7 +2413,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/04/29/fun-day-out.html",
 				
 				"content_html": "<p>Fun day out in Georgetown with the extended family. I forgot my camera so these were all taken on an iPhone 13 Pro.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Fun day out in Georgetown with the extended family. I forgot my camera so these were all taken on an iPhone 13 Pro.\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/5b36a4a2d6.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/0cfbfbb38c.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/3ca7549543.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/27a3a7a512.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/8a17e4c51b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Fun day out in Georgetown with the extended family. I forgot my camera so these were all taken on an iPhone 13 Pro.\n\n<img src=\"uploads/2023/5b36a4a2d6.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0cfbfbb38c.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/3ca7549543.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/27a3a7a512.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2023/8a17e4c51b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-29T15:05:25-05:00",
 				"url": "https://mindofaaronw.com/2023/04/29/fun-day-out.html",
 				"tags": ["photos"]
@@ -2384,7 +2431,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/04/28/taking-a-wellness.html",
 				
 				"content_html": "<p>Taking a wellness day today and being a glutton.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Taking a wellness day today and being a glutton. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/ca3249ad68.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/5df800a02e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Taking a wellness day today and being a glutton. \n\n<img src=\"uploads/2023/ca3249ad68.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/5df800a02e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-28T14:50:14-05:00",
 				"url": "https://mindofaaronw.com/2023/04/28/taking-a-wellness.html",
 				"tags": ["photos"]
@@ -2456,7 +2503,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/04/23/get-out-in.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Get out in nature today! Before the rain comes in Austin anyway.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/96354/2023/f4e1309787.jpg\" alt=\"\" width=\"450\" height=\"600\" /></p>\n",
+				"content_text": "<p>Get out in nature today! Before the rain comes in Austin anyway.</p>\n<p><img src=\"uploads/2023/f4e1309787.jpg\" alt=\"\" width=\"450\" height=\"600\" /></p>\n",
 				"date_published": "2023-04-23T14:44:09-05:00",
 				"url": "https://mindofaaronw.com/2023/04/23/get-out-in.html",
 				"tags": ["photos","texas"]
@@ -2519,7 +2566,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/04/17/115118.html",
 				"title": "iOS Homescreen - April 2023 Edition",
 				"content_html": "<p>Inspired by a <a href=\"https://ericgregorich.com/2023/04/01/apps-im-using.html\">recent post of Eric’s</a>, I wanted to take a stab at it for my iPhone. I consider myself a tinkerer of my digital workspace; constantly trying new things or ways I accomplish tasks. Apps are a large part of that, whether on iOS, iPadOS, macOS, or Windows.</p>\n<p>Here are my homescreen apps for April 2023. There are a few folders on the right hand side of frequently used apps or new apps I want to try out. I always keep one page too, everything else can be found via Spotlight Search.</p>\n<!-- raw HTML omitted -->\n<h2 id=\"widgets\">Widgets</h2>\n<p>I have a SmartRotating stack with:</p>\n<ul>\n<li>Calendar</li>\n<li>Reminders - only showing those with a deadline of Today</li>\n<li>Weather</li>\n<li>Fitness</li>\n<li>Battery</li>\n</ul>\n<h2 id=\"1st-row\">1st Row</h2>\n<ul>\n<li><a href=\"https://bear.app/\">Bear</a> - personal notes, highlights, knowledge management. Using the 2.0 TestFlight right now.</li>\n<li><a href=\"https://micro.blog/\">Micro.blog</a> - I am using the TestFlight of the official app.</li>\n<li><a href=\"https://apolloapp.io/\">Apollo</a> - my Reddit client of choice. Wonderful app with tons of customization. I’ve been an Ultra user for a couple years now.</li>\n<li>Photography folder:\n<ul>\n<li>Instagram</li>\n<li>Lightroom Mobile - Been using it more and more since subscribing earlier this year. It’s a great way to perform quick edits.</li>\n<li>Apple Photos - I sync all photos to Lightroom/Adobe cloud. I then backup photos and documents monthly to external hard drive. Everything else stays in Apple Photos for redundancy (for now).</li>\n</ul>\n</li>\n</ul>\n<h2 id=\"2nd-row\">2nd Row</h2>\n<ul>\n<li>Safari - browser of choice on all Apple devices, Chrome on Windows.</li>\n<li><a href=\"https://netnewswire.com/\">NetNewsWire</a> - RSS reader for websites, blogs, etc.</li>\n<li><a href=\"https://artifact.news/\">Artifact</a> - been testing it for news. I like the app for the most part, but I hate the new Reddit-like features. Might just stick to RSS and Socials if they’re going to prioritize this.</li>\n<li>Audio folder:\n<ul>\n<li><a href=\"https://overcast.fm/\">Overcast</a> - The silence shortening is unmatched.</li>\n<li>Apple Music - It fills my needs and works well enough. The UI does need some work though.</li>\n<li>Audible - For audiobooks. I have a large backlog, but I’d prefer to move away from Audible in the future. No longer subscribe though.</li>\n<li>Spotify - I use the free edition to listen to some exclusive podcasts and follow a few people’s playlists.</li>\n<li><a href=\"https://darknoise.app/\">Dark Noise</a> - when I need background music to sleep or for work.</li>\n<li>Shazam - I like the app over the control center shortcut, but I use it enough when watching shows to put it on my homescreen.</li>\n</ul>\n</li>\n</ul>\n<h2 id=\"3rd-row\">3rd Row</h2>\n<ul>\n<li>Maps</li>\n<li><a href=\"https://transitapp.com/\">Transit</a> - I utilize public transit as much as possible here in Austin. The best app for accurate schedules. Using free version currently, but have used paid in the past.</li>\n<li>Ring - For home security.</li>\n<li>Utilities folder:\n<ul>\n<li>Reminders</li>\n<li>Files</li>\n<li><a href=\"https://getpocket.com/\">Pocket</a> - I still use Pocket for my RIL service. Just works cross platform and I don’t mind their recommendations. If I stop using Artifact, I will move Pocket to its place.</li>\n<li>Calculator</li>\n<li>Wallet</li>\n<li><a href=\"https://www.openplanetsoftware.com/just-press-record/\">Just Press Record</a> - good for when I’m driving and have a thought or need to remember something and can’t type it out (Don’t text and drive!). Syncs with iCloud.</li>\n</ul>\n</li>\n</ul>\n<h2 id=\"4th-row\">4th Row</h2>\n<ul>\n<li>WhatsApp - to communicate with specific family and friends.</li>\n<li><a href=\"https://crouton.app/\">Crouton</a> - a lovely recipe app.</li>\n<li>Shortcuts - I have many shortcuts that I use with varying frequency. I prefer to have access on homescreen instead of with widgets.</li>\n<li>Sports folder:\n<ul>\n<li>Sleeper - fantasy football</li>\n<li>Yahoo Fantasy - fantasy football and baseball</li>\n<li>MLB</li>\n<li>MLS</li>\n</ul>\n</li>\n</ul>\n<h2 id=\"dock\">Dock</h2>\n<ul>\n<li>Messages</li>\n<li>Phone</li>\n<li>Mail</li>\n<li>Camera</li>\n</ul>\n<p>I hope I introduce you to some new and fun apps. Let me know what you think or if you have any recommendations of your own. I&rsquo;ll probably do my Mac next since there&rsquo;s a bunch of fun little utilities that may be new to some folks.</p>\n",
-				"content_text": "Inspired by a [recent post of Eric’s](https://ericgregorich.com/2023/04/01/apps-im-using.html), I wanted to take a stab at it for my iPhone. I consider myself a tinkerer of my digital workspace; constantly trying new things or ways I accomplish tasks. Apps are a large part of that, whether on iOS, iPadOS, macOS, or Windows.\n\nHere are my homescreen apps for April 2023. There are a few folders on the right hand side of frequently used apps or new apps I want to try out. I always keep one page too, everything else can be found via Spotlight Search. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/1e3c08fc34.jpg\" width=\"311\" height=\"600\" alt=\"\">\n\n## Widgets\nI have a SmartRotating stack with:\n\n* Calendar\n* Reminders - only showing those with a deadline of Today\n* Weather\n* Fitness \n* Battery\n\n## 1st Row\n* [Bear](https://bear.app/) - personal notes, highlights, knowledge management. Using the 2.0 TestFlight right now.\n* [Micro.blog](https://micro.blog/) - I am using the TestFlight of the official app. \n* [Apollo](https://apolloapp.io/) - my Reddit client of choice. Wonderful app with tons of customization. I’ve been an Ultra user for a couple years now.\n* Photography folder:\n  * Instagram\n  * Lightroom Mobile - Been using it more and more since subscribing earlier this year. It’s a great way to perform quick edits.\n  * Apple Photos - I sync all photos to Lightroom/Adobe cloud. I then backup photos and documents monthly to external hard drive. Everything else stays in Apple Photos for redundancy (for now).\n\n## 2nd Row\n* Safari - browser of choice on all Apple devices, Chrome on Windows.\n* [NetNewsWire](https://netnewswire.com/) - RSS reader for websites, blogs, etc.\n* [Artifact](https://artifact.news/) - been testing it for news. I like the app for the most part, but I hate the new Reddit-like features. Might just stick to RSS and Socials if they’re going to prioritize this.\n* Audio folder:\n  * [Overcast](https://overcast.fm/) - The silence shortening is unmatched.\n  * Apple Music - It fills my needs and works well enough. The UI does need some work though.\n  * Audible - For audiobooks. I have a large backlog, but I’d prefer to move away from Audible in the future. No longer subscribe though.\n  * Spotify - I use the free edition to listen to some exclusive podcasts and follow a few people’s playlists.\n  * [Dark Noise](https://darknoise.app/) - when I need background music to sleep or for work.\n  * Shazam - I like the app over the control center shortcut, but I use it enough when watching shows to put it on my homescreen.\n\n## 3rd Row\n* Maps\n* [Transit](https://transitapp.com/) - I utilize public transit as much as possible here in Austin. The best app for accurate schedules. Using free version currently, but have used paid in the past.\n* Ring - For home security.\n* Utilities folder:\n  * Reminders\n  * Files\n  * [Pocket](https://getpocket.com/) - I still use Pocket for my RIL service. Just works cross platform and I don’t mind their recommendations. If I stop using Artifact, I will move Pocket to its place.\n  * Calculator\n  * Wallet\n  * [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) - good for when I’m driving and have a thought or need to remember something and can’t type it out (Don’t text and drive!). Syncs with iCloud.\n\n## 4th Row\n* WhatsApp - to communicate with specific family and friends.\n* [Crouton](https://crouton.app/) - a lovely recipe app.\n* Shortcuts - I have many shortcuts that I use with varying frequency. I prefer to have access on homescreen instead of with widgets.\n* Sports folder:\n  * Sleeper - fantasy football\n  * Yahoo Fantasy - fantasy football and baseball\n  * MLB\n  * MLS\n\n## Dock\n* Messages\n* Phone\n* Mail\n* Camera\n\n I hope I introduce you to some new and fun apps. Let me know what you think or if you have any recommendations of your own. I'll probably do my Mac next since there's a bunch of fun little utilities that may be new to some folks.\n",
+				"content_text": "Inspired by a [recent post of Eric’s](https://ericgregorich.com/2023/04/01/apps-im-using.html), I wanted to take a stab at it for my iPhone. I consider myself a tinkerer of my digital workspace; constantly trying new things or ways I accomplish tasks. Apps are a large part of that, whether on iOS, iPadOS, macOS, or Windows.\n\nHere are my homescreen apps for April 2023. There are a few folders on the right hand side of frequently used apps or new apps I want to try out. I always keep one page too, everything else can be found via Spotlight Search. \n\n<img src=\"uploads/2023/1e3c08fc34.jpg\" width=\"311\" height=\"600\" alt=\"\">\n\n## Widgets\nI have a SmartRotating stack with:\n\n* Calendar\n* Reminders - only showing those with a deadline of Today\n* Weather\n* Fitness \n* Battery\n\n## 1st Row\n* [Bear](https://bear.app/) - personal notes, highlights, knowledge management. Using the 2.0 TestFlight right now.\n* [Micro.blog](https://micro.blog/) - I am using the TestFlight of the official app. \n* [Apollo](https://apolloapp.io/) - my Reddit client of choice. Wonderful app with tons of customization. I’ve been an Ultra user for a couple years now.\n* Photography folder:\n  * Instagram\n  * Lightroom Mobile - Been using it more and more since subscribing earlier this year. It’s a great way to perform quick edits.\n  * Apple Photos - I sync all photos to Lightroom/Adobe cloud. I then backup photos and documents monthly to external hard drive. Everything else stays in Apple Photos for redundancy (for now).\n\n## 2nd Row\n* Safari - browser of choice on all Apple devices, Chrome on Windows.\n* [NetNewsWire](https://netnewswire.com/) - RSS reader for websites, blogs, etc.\n* [Artifact](https://artifact.news/) - been testing it for news. I like the app for the most part, but I hate the new Reddit-like features. Might just stick to RSS and Socials if they’re going to prioritize this.\n* Audio folder:\n  * [Overcast](https://overcast.fm/) - The silence shortening is unmatched.\n  * Apple Music - It fills my needs and works well enough. The UI does need some work though.\n  * Audible - For audiobooks. I have a large backlog, but I’d prefer to move away from Audible in the future. No longer subscribe though.\n  * Spotify - I use the free edition to listen to some exclusive podcasts and follow a few people’s playlists.\n  * [Dark Noise](https://darknoise.app/) - when I need background music to sleep or for work.\n  * Shazam - I like the app over the control center shortcut, but I use it enough when watching shows to put it on my homescreen.\n\n## 3rd Row\n* Maps\n* [Transit](https://transitapp.com/) - I utilize public transit as much as possible here in Austin. The best app for accurate schedules. Using free version currently, but have used paid in the past.\n* Ring - For home security.\n* Utilities folder:\n  * Reminders\n  * Files\n  * [Pocket](https://getpocket.com/) - I still use Pocket for my RIL service. Just works cross platform and I don’t mind their recommendations. If I stop using Artifact, I will move Pocket to its place.\n  * Calculator\n  * Wallet\n  * [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) - good for when I’m driving and have a thought or need to remember something and can’t type it out (Don’t text and drive!). Syncs with iCloud.\n\n## 4th Row\n* WhatsApp - to communicate with specific family and friends.\n* [Crouton](https://crouton.app/) - a lovely recipe app.\n* Shortcuts - I have many shortcuts that I use with varying frequency. I prefer to have access on homescreen instead of with widgets.\n* Sports folder:\n  * Sleeper - fantasy football\n  * Yahoo Fantasy - fantasy football and baseball\n  * MLB\n  * MLS\n\n## Dock\n* Messages\n* Phone\n* Mail\n* Camera\n\n I hope I introduce you to some new and fun apps. Let me know what you think or if you have any recommendations of your own. I'll probably do my Mac next since there's a bunch of fun little utilities that may be new to some folks.\n",
 				"date_published": "2023-04-17T11:54:12-05:00",
 				"url": "https://mindofaaronw.com/2023/04/17/115118.html",
 				"tags": ["tech","apps","macro"]
@@ -2528,7 +2575,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/04/13/some-of-the.html",
 				
 				"content_html": "<p>Some of the photos from earlier this morning got cropped weirdly. Trying this again with a new post.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Some of the photos from earlier this morning got cropped weirdly. Trying this again with a new post.\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/990d1ec701.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/84ff9733a5.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/80199df462.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/a61034632a.jpg\" width=\"404\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/dab2e3c5bd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Some of the photos from earlier this morning got cropped weirdly. Trying this again with a new post.\n\n<img src=\"uploads/2023/990d1ec701.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/84ff9733a5.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/80199df462.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2023/a61034632a.jpg\" width=\"404\" height=\"600\" alt=\"\"><img src=\"uploads/2023/dab2e3c5bd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-13T10:01:20-05:00",
 				"url": "https://mindofaaronw.com/2023/04/13/some-of-the.html",
 				"tags": ["photos","italy"]
@@ -2537,7 +2584,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/04/11/saw-this-little.html",
 				
 				"content_html": "<p>Saw this little birdie at dusk singing many songs.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Saw this little birdie at dusk singing many songs.\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/fea4d7fe59.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Saw this little birdie at dusk singing many songs.\n\n<img src=\"uploads/2023/fea4d7fe59.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-11T21:05:47-05:00",
 				"url": "https://mindofaaronw.com/2023/04/11/saw-this-little.html",
 				"tags": ["photos"]
@@ -2618,7 +2665,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/31/112551.html",
 				
 				"content_html": "<p>Day 31: Practice.</p>\n<p>Photography takes practice is what I’m learning. But it is fun!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 31: Practice. \n\nPhotography takes practice is what I’m learning. But it is fun!\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/eeae536594.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 31: Practice. \n\nPhotography takes practice is what I’m learning. But it is fun!\n\n\n\n<img src=\"uploads/2023/eeae536594.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-31T11:25:51-05:00",
 				"url": "https://mindofaaronw.com/2023/03/31/112551.html",
 				"tags": ["photochallenge"]
@@ -2654,7 +2701,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/30/day-mirror-happiest.html",
 				
 				"content_html": "<p>Day 30: Mirror.</p>\n<p>Happiest doggo.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 30: Mirror. \n\nHappiest doggo. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/958b2c5090.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 30: Mirror. \n\nHappiest doggo. \n\n<img src=\"uploads/2023/958b2c5090.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-30T11:22:14-05:00",
 				"url": "https://mindofaaronw.com/2023/03/30/day-mirror-happiest.html",
 				"tags": ["photochallenge"]
@@ -2672,7 +2719,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/29/day-slice.html",
 				
 				"content_html": "<p>Day 29: Slice.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 29: Slice. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/e025b48876.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 29: Slice. \n\n\n\n<img src=\"uploads/2023/e025b48876.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-29T11:10:12-05:00",
 				"url": "https://mindofaaronw.com/2023/03/29/day-slice.html",
 				"tags": ["photochallenge"]
@@ -2681,7 +2728,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/28/day-prompt-modern.html",
 				
 				"content_html": "<p>Day 28: Prompt.</p>\n<p>Modern day writing prompt 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 28: Prompt. \n\nModern day writing prompt 😅\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/7981d3e9e4.jpg\" width=\"307\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 28: Prompt. \n\nModern day writing prompt 😅\n\n<img src=\"uploads/2023/7981d3e9e4.jpg\" width=\"307\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-28T14:17:29-05:00",
 				"url": "https://mindofaaronw.com/2023/03/28/day-prompt-modern.html",
 				"tags": ["photochallenge"]
@@ -2690,7 +2737,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/27/day-support-i.html",
 				
 				"content_html": "<p>Day 27: Support.</p>\n<p>I posted this from my trip recently. But think it just sums up this prompt so well.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 27: Support. \n\nI posted this from my trip recently. But think it just sums up this prompt so well. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/74e06d7120.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 27: Support. \n\nI posted this from my trip recently. But think it just sums up this prompt so well. \n\n<img src=\"uploads/2023/74e06d7120.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-27T12:12:05-05:00",
 				"url": "https://mindofaaronw.com/2023/03/27/day-support-i.html",
 				"tags": ["photochallenge"]
@@ -2726,7 +2773,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/26/day-instrument-lovely.html",
 				
 				"content_html": "<p>Day 26: Instrument.</p>\n<p>Lovely street busker with his instrument in Milan.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 26: Instrument. \n\nLovely street busker with his instrument in Milan. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/929978c5bf.jpg\" width=\"361\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 26: Instrument. \n\nLovely street busker with his instrument in Milan. \n\n<img src=\"uploads/2023/929978c5bf.jpg\" width=\"361\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-26T16:11:17-05:00",
 				"url": "https://mindofaaronw.com/2023/03/26/day-instrument-lovely.html",
 				"tags": ["photochallenge"]
@@ -2735,7 +2782,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/25/day-spice-corner.html",
 				
 				"content_html": "<p>Day 25: Spice.</p>\n<p>“Corner stores” in Rome also sell spice(s). This is neat.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 25: Spice. \n\n“Corner stores” in Rome also sell spice(s). This is neat. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/da1a35f418.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 25: Spice. \n\n“Corner stores” in Rome also sell spice(s). This is neat. \n\n<img src=\"uploads/2023/da1a35f418.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-25T12:55:53-05:00",
 				"url": "https://mindofaaronw.com/2023/03/25/day-spice-corner.html",
 				"tags": ["photochallenge"]
@@ -2744,7 +2791,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/24/day-court-this.html",
 				
 				"content_html": "<p>Day 24: Court.</p>\n<p>This is what I imagine a Roman court looks like. Although I think it’s probably a church or public service building.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 24: Court. \n\nThis is what I imagine a Roman court looks like. Although I think it’s probably a church or public service building. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/397563fa59.jpg\" width=\"529\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 24: Court. \n\nThis is what I imagine a Roman court looks like. Although I think it’s probably a church or public service building. \n\n<img src=\"uploads/2023/397563fa59.jpg\" width=\"529\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-24T10:39:13-05:00",
 				"url": "https://mindofaaronw.com/2023/03/24/day-court-this.html",
 				"tags": ["photochallenge"]
@@ -2753,7 +2800,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/24/weird-my-chance.html",
 				
 				"content_html": "<p>Weird my chance photo didn’t get uploaded properly. Here we go again.</p>\n<p>Day 23: Chance.</p>\n<p>Never know what you’ll encounter at the Pawn Stars shop. If you’re like me it will be nothing I wanted to purchase 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Weird my chance photo didn’t get uploaded properly. Here we go again. \n\nDay 23: Chance. \n\nNever know what you’ll encounter at the Pawn Stars shop. If you’re like me it will be nothing I wanted to purchase 😅\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/a5f5a079aa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Weird my chance photo didn’t get uploaded properly. Here we go again. \n\nDay 23: Chance. \n\nNever know what you’ll encounter at the Pawn Stars shop. If you’re like me it will be nothing I wanted to purchase 😅\n\n\n\n<img src=\"uploads/2023/a5f5a079aa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-24T02:51:25-05:00",
 				"url": "https://mindofaaronw.com/2023/03/24/weird-my-chance.html",
 				"tags": ["photochallenge"]
@@ -2780,7 +2827,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/23/florence-is-a.html",
 				
 				"content_html": "<p>Florence is a wonderful city full of nice people and delicious food. Enjoyed the few days here and will be back one day!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Florence is a wonderful city full of nice people and delicious food. Enjoyed the few days here and will be back one day!\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/8c1501aefb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/3e2203df9b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/883a283202.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Florence is a wonderful city full of nice people and delicious food. Enjoyed the few days here and will be back one day!\n\n<img src=\"uploads/2023/8c1501aefb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/3e2203df9b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/883a283202.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-23T05:02:37-05:00",
 				"url": "https://mindofaaronw.com/2023/03/23/florence-is-a.html",
 				"tags": ["italy"]
@@ -2789,7 +2836,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/22/day-insect.html",
 				
 				"content_html": "<p>Day 22: Insect.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 22: Insect. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/9d23cc1598.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 22: Insect. \n\n<img src=\"uploads/2023/9d23cc1598.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-22T10:49:58-05:00",
 				"url": "https://mindofaaronw.com/2023/03/22/day-insect.html",
 				"tags": ["photochallenge"]
@@ -2798,7 +2845,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/21/day-tiny-taken.html",
 				
 				"content_html": "<p>Day 21: Tiny.</p>\n<p>Taken from the top of the meteor crater in Winslow, AZ. Never have I ever felt so tiny than standing there looking down at the aftermath of a meteor.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 21: Tiny. \n\nTaken from the top of the meteor crater in Winslow, AZ. Never have I ever felt so tiny than standing there looking down at the aftermath of a meteor. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/45f2c4dd33.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 21: Tiny. \n\nTaken from the top of the meteor crater in Winslow, AZ. Never have I ever felt so tiny than standing there looking down at the aftermath of a meteor. \n\n\n\n<img src=\"uploads/2023/45f2c4dd33.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-21T09:52:21-05:00",
 				"url": "https://mindofaaronw.com/2023/03/21/day-tiny-taken.html",
 				"tags": ["photochallenge"]
@@ -2807,7 +2854,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/20/day-houseplant-when.html",
 				
 				"content_html": "<p>Day 20: Houseplant.</p>\n<p>When you take your houseplant outside for some sunshine, you never know what you will find!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 20: Houseplant. \n\nWhen you take your houseplant outside for some sunshine, you never know what you will find!\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/c3ed37fa8f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 20: Houseplant. \n\nWhen you take your houseplant outside for some sunshine, you never know what you will find!\n\n<img src=\"uploads/2023/c3ed37fa8f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-20T07:07:27-05:00",
 				"url": "https://mindofaaronw.com/2023/03/20/day-houseplant-when.html",
 				"tags": ["photochallenge"]
@@ -2816,7 +2863,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/20/milan-youre-beautiful.html",
 				
 				"content_html": "<p>Milan, you’re beautiful. Fino alla prossima volt!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Milan, you’re beautiful. Fino alla prossima volt!\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/34f2f0ad05.jpg\" width=\"277\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/3d17d9e939.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/83569562fa.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/1c88eddb35.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Milan, you’re beautiful. Fino alla prossima volt!\n\n\n\n<img src=\"uploads/2023/34f2f0ad05.jpg\" width=\"277\" height=\"600\" alt=\"\"><img src=\"uploads/2023/3d17d9e939.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/83569562fa.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/1c88eddb35.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-20T07:03:08-05:00",
 				"url": "https://mindofaaronw.com/2023/03/20/milan-youre-beautiful.html",
 				"tags": ["italy"]
@@ -2825,7 +2872,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/19/day-analog-italy.html",
 				
 				"content_html": "<p>Day 19: Analog.</p>\n<p>Italy is full of retro, analog bicycles.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 19: Analog. \n\nItaly is full of retro, analog bicycles. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/bc975c4b08.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 19: Analog. \n\nItaly is full of retro, analog bicycles. \n\n<img src=\"uploads/2023/bc975c4b08.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-19T07:59:26-05:00",
 				"url": "https://mindofaaronw.com/2023/03/19/day-analog-italy.html",
 				"tags": ["photochallenge"]
@@ -2843,7 +2890,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/18/day-portico-quite.html",
 				
 				"content_html": "<p>Day 18: Portico.</p>\n<p>Quite the portico that I’ve seen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 18: Portico. \n\nQuite the portico that I’ve seen. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/2a15023e86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 18: Portico. \n\nQuite the portico that I’ve seen. \n\n<img src=\"uploads/2023/2a15023e86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-18T12:18:32-05:00",
 				"url": "https://mindofaaronw.com/2023/03/18/day-portico-quite.html",
 				"tags": ["photochallenge"]
@@ -2861,7 +2908,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/17/day-early.html",
 				
 				"content_html": "<p>Day 17: Early.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 17: Early. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/ba7e683db3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 17: Early. \n\n<img src=\"uploads/2023/ba7e683db3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T09:06:58-05:00",
 				"url": "https://mindofaaronw.com/2023/03/17/day-early.html",
 				"tags": ["photochallenge"]
@@ -2870,7 +2917,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/16/day-road-take.html",
 				
 				"content_html": "<p>Day 16: Road.</p>\n<p>Take the road less travelled. Always.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 16: Road. \n\nTake the road less travelled. Always. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/874e8ff1b5.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
+				"content_text": "Day 16: Road. \n\nTake the road less travelled. Always. \n\n<img src=\"uploads/2023/874e8ff1b5.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
 				"date_published": "2023-03-16T08:42:43-05:00",
 				"url": "https://mindofaaronw.com/2023/03/16/day-road-take.html",
 				"tags": ["photochallenge"]
@@ -2879,7 +2926,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/15/day-patience-the.html",
 				
 				"content_html": "<p>Day 15: Patience.</p>\n<p>The patience and love of a dog knows no bounds.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 15: Patience. \n\nThe patience and love of a dog knows no bounds. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/ff72df0dc2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 15: Patience. \n\nThe patience and love of a dog knows no bounds. \n\n<img src=\"uploads/2023/ff72df0dc2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T07:52:36-05:00",
 				"url": "https://mindofaaronw.com/2023/03/15/day-patience-the.html",
 				"tags": ["photochallenge"]
@@ -2897,7 +2944,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/14/day-horizon-one.html",
 				
 				"content_html": "<p>Day 14: Horizon.</p>\n<p>One of my favorite photos from a road-trip. Carlsbad Caverns National Park.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 14: Horizon. \n\nOne of my favorite photos from a road-trip. Carlsbad Caverns National Park. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/e10e36793c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 14: Horizon. \n\nOne of my favorite photos from a road-trip. Carlsbad Caverns National Park. \n\n<img src=\"uploads/2023/e10e36793c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-14T09:02:52-05:00",
 				"url": "https://mindofaaronw.com/2023/03/14/day-horizon-one.html",
 				"tags": ["photochallenge"]
@@ -2906,7 +2953,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/13/day-connection-perks.html",
 				
 				"content_html": "<p>Day 13: Connection.</p>\n<p>Feeling connected in the data center.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 13: Connection. \n\nFeeling connected in the data center.\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/371a2f0fc6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 13: Connection. \n\nFeeling connected in the data center.\n\n<img src=\"uploads/2023/371a2f0fc6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-13T09:22:57-05:00",
 				"url": "https://mindofaaronw.com/2023/03/13/day-connection-perks.html",
 				"tags": ["photochallenge"]
@@ -2924,7 +2971,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/12/day-shiny-apparently.html",
 				
 				"content_html": "<p>Day 12: Shiny.</p>\n<p>Apparently Nordstrom has a shiny new bar 🤷🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 12: Shiny. \n\nApparently Nordstrom has a shiny new bar 🤷🏻‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/c71585b8fa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 12: Shiny. \n\nApparently Nordstrom has a shiny new bar 🤷🏻‍♂️\n\n<img src=\"uploads/2023/c71585b8fa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-12T15:00:04-05:00",
 				"url": "https://mindofaaronw.com/2023/03/12/day-shiny-apparently.html",
 				"tags": ["photochallenge"]
@@ -2933,7 +2980,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/11/day-gimcrack-never.html",
 				
 				"content_html": "<p>Day 12: Gimcrack.</p>\n<p>Never heard this word before. But from my understanding of it, this light exhibition in Austin is <strong>not</strong> that.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 12: Gimcrack. \n\nNever heard this word before. But from my understanding of it, this light exhibition in Austin is **not** that. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/b1fcb3f713.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 12: Gimcrack. \n\nNever heard this word before. But from my understanding of it, this light exhibition in Austin is **not** that. \n\n<img src=\"uploads/2023/b1fcb3f713.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-11T12:30:27-05:00",
 				"url": "https://mindofaaronw.com/2023/03/11/day-gimcrack-never.html",
 				"tags": ["photochallenge"]
@@ -2951,7 +2998,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/10/day-ritual-started.html",
 				
 				"content_html": "<p>Day 10: Ritual.</p>\n<p>Started a new holiday ritual this past year. Think I’ll continue after the many compliments.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 10: Ritual. \n\nStarted a new holiday ritual this past year. Think I’ll continue after the many compliments. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/f213a6144f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 10: Ritual. \n\nStarted a new holiday ritual this past year. Think I’ll continue after the many compliments. \n\n<img src=\"uploads/2023/f213a6144f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-10T15:30:48-05:00",
 				"url": "https://mindofaaronw.com/2023/03/10/day-ritual-started.html",
 				"tags": ["photochallenge"]
@@ -2960,7 +3007,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/09/day-together-a.html",
 				
 				"content_html": "<p>Day 9: Together.</p>\n<p>A nice piece of street art that invokes this feeling for me. I couldn’t easily edit out the plant at the bottom because of the number of leaves/stems 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 9: Together. \n\nA nice piece of street art that invokes this feeling for me. I couldn’t easily edit out the plant at the bottom because of the number of leaves/stems 😅\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/68e50277fa.jpg\" width=\"600\" height=\"552\" alt=\"\">\n",
+				"content_text": "Day 9: Together. \n\nA nice piece of street art that invokes this feeling for me. I couldn’t easily edit out the plant at the bottom because of the number of leaves/stems 😅\n\n<img src=\"uploads/2023/68e50277fa.jpg\" width=\"600\" height=\"552\" alt=\"\">\n",
 				"date_published": "2023-03-09T06:41:57-05:00",
 				"url": "https://mindofaaronw.com/2023/03/09/day-together-a.html",
 				"tags": ["photochallenge"]
@@ -2969,7 +3016,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/08/day-walk-take.html",
 				
 				"content_html": "<p>Day 8: Walk.</p>\n<p>Take a moment to get outside this week!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 8: Walk. \n\nTake a moment to get outside this week!\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/4b7865ddb7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 8: Walk. \n\nTake a moment to get outside this week!\n\n<img src=\"uploads/2023/4b7865ddb7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-08T07:18:46-05:00",
 				"url": "https://mindofaaronw.com/2023/03/08/day-walk-take.html",
 				"tags": ["photochallenge"]
@@ -2978,7 +3025,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/07/day-whole-to.html",
 				
 				"content_html": "<p>Day 7: Whole.</p>\n<p>To my wife of 3 years for making me whole.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 7: Whole. \n\nTo my wife of 3 years for making me whole. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/91f27b0b2c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Day 7: Whole. \n\nTo my wife of 3 years for making me whole. \n\n<img src=\"uploads/2023/91f27b0b2c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-07T13:17:58-05:00",
 				"url": "https://mindofaaronw.com/2023/03/07/day-whole-to.html",
 				"tags": ["photochallenge"]
@@ -2996,7 +3043,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/06/day-engineering-one.html",
 				
 				"content_html": "<p>Day 6: Engineering.</p>\n<p>One of Austin’s best viewpoints and a reminder that even simple bridges are magnificent feats of engineering.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 6: Engineering. \n\nOne of Austin’s best viewpoints and a reminder that even simple bridges are magnificent feats of engineering. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/db08a03a59.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 6: Engineering. \n\nOne of Austin’s best viewpoints and a reminder that even simple bridges are magnificent feats of engineering. \n\n<img src=\"uploads/2023/db08a03a59.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-06T07:54:23-05:00",
 				"url": "https://mindofaaronw.com/2023/03/06/day-engineering-one.html",
 				"tags": ["photochallenge"]
@@ -3005,7 +3052,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/05/day-tile-might.html",
 				
 				"content_html": "<p>Day 5: Tile.</p>\n<p>Might need to apply more grout 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 5: Tile. \n\nMight need to apply more grout 😅\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/26f09cb9a3.jpg\" width=\"600\" height=\"413\" alt=\"\">\n",
+				"content_text": "Day 5: Tile. \n\nMight need to apply more grout 😅\n\n<img src=\"uploads/2023/26f09cb9a3.jpg\" width=\"600\" height=\"413\" alt=\"\">\n",
 				"date_published": "2023-03-05T16:47:09-05:00",
 				"url": "https://mindofaaronw.com/2023/03/05/day-tile-might.html",
 				"tags": ["photochallenge"]
@@ -3032,7 +3079,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/04/day-zip.html",
 				
 				"content_html": "<p>Day 4: Zip.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 4: Zip. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/31953d4692.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 4: Zip. \n\n<img src=\"uploads/2023/31953d4692.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-04T09:30:25-05:00",
 				"url": "https://mindofaaronw.com/2023/03/04/day-zip.html",
 				"tags": ["photochallenge"]
@@ -3068,7 +3115,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/03/day-solitude.html",
 				
 				"content_html": "<p>Day 3: Solitude.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 3: Solitude. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/d5ec508554.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 3: Solitude. \n\n<img src=\"uploads/2023/d5ec508554.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-03T09:14:21-05:00",
 				"url": "https://mindofaaronw.com/2023/03/03/day-solitude.html",
 				"tags": ["photochallenge"]
@@ -3077,7 +3124,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/02/day-weather-hard.html",
 				
 				"content_html": "<p>Day 2: Weather.</p>\n<p>Hard to believe this was just last month in Austin. Glad the ice is gone 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 2: Weather. \n\nHard to believe this was just last month in Austin. Glad the ice is gone 😅\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/d85ee4a60d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 2: Weather. \n\nHard to believe this was just last month in Austin. Glad the ice is gone 😅\n\n<img src=\"uploads/2023/d85ee4a60d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-02T13:32:46-05:00",
 				"url": "https://mindofaaronw.com/2023/03/02/day-weather-hard.html",
 				"tags": ["photochallenge"]
@@ -3122,7 +3169,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/03/01/day-secure.html",
 				
 				"content_html": "<p>Day 1: Secure.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 1: Secure. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/57118f35e8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 1: Secure. \n\n<img src=\"uploads/2023/57118f35e8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-01T11:30:14-05:00",
 				"url": "https://mindofaaronw.com/2023/03/01/day-secure.html",
 				"tags": ["photochallenge"]
@@ -3353,7 +3400,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/10/took-a-nice.html",
 				
 				"content_html": "<p>📸 Took a nice walk during a break at work and saw the UT baseball team practicing.</p>\n<p>Took this from under the scoreboard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Took a nice walk during a break at work and saw the UT baseball team practicing. \n\nTook this from under the scoreboard. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/ad01b2d3f2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📸 Took a nice walk during a break at work and saw the UT baseball team practicing. \n\nTook this from under the scoreboard. \n\n<img src=\"uploads/2023/ad01b2d3f2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-10T15:09:04-05:00",
 				"url": "https://mindofaaronw.com/2023/02/10/took-a-nice.html",
 				"tags": ["photos"]
@@ -3380,7 +3427,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/08/simone-wants-breakfastnow.html",
 				
 				"content_html": "<p>Someone wants breakfast…NOW.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Someone wants breakfast…NOW. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/a66edbe1af.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Someone wants breakfast…NOW. \n\n<img src=\"uploads/2023/a66edbe1af.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-08T10:09:36-05:00",
 				"url": "https://mindofaaronw.com/2023/02/08/simone-wants-breakfastnow.html",
 				"tags": ["photos","dogs"]
@@ -3398,7 +3445,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/07/austin-is-full.html",
 				
 				"content_html": "<p>Austin is full of some fun street art.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Austin is full of some fun street art. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/378496d3d1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Austin is full of some fun street art. \n\n<img src=\"uploads/2023/378496d3d1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-07T08:40:01-05:00",
 				"url": "https://mindofaaronw.com/2023/02/07/austin-is-full.html",
 				"tags": ["photos"]
@@ -3443,7 +3490,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/05/nice-little-sculpture.html",
 				
 				"content_html": "<p>Nice little sculpture park located within a city park nearby!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice little sculpture park located within a city park nearby! \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/c83de25f20.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Nice little sculpture park located within a city park nearby! \n\n<img src=\"uploads/2023/c83de25f20.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-05T14:26:43-05:00",
 				"url": "https://mindofaaronw.com/2023/02/05/nice-little-sculpture.html",
 				"tags": ["photos"]
@@ -3461,7 +3508,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/04/not-as-good.html",
 				
 				"content_html": "<p>Not as good as some others I took during the storm. But thought this one was neat with how the berries are.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not as good as some others I took during the storm. But thought this one was neat with how the berries are. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/1d107c4d6f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Not as good as some others I took during the storm. But thought this one was neat with how the berries are. \n\n<img src=\"uploads/2023/1d107c4d6f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-04T20:15:09-05:00",
 				"url": "https://mindofaaronw.com/2023/02/04/not-as-good.html",
 				"tags": ["photos"]
@@ -3488,7 +3535,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/03/took-this-before.html",
 				
 				"content_html": "<p>Took this before the ice thawed yesterday in Austin. Probably my favorite photo I’ve taken in a while.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took this before the ice thawed yesterday in Austin. Probably my favorite photo I’ve taken in a while. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/610c5e51d5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Took this before the ice thawed yesterday in Austin. Probably my favorite photo I’ve taken in a while. \n\n<img src=\"uploads/2023/610c5e51d5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-03T10:57:33-05:00",
 				"url": "https://mindofaaronw.com/2023/02/03/took-this-before.html",
 				"tags": ["photos"]
@@ -3497,7 +3544,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/02/02/i-dont-know.html",
 				
 				"content_html": "<p>I don’t know if this trees going to make it 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don’t know if this trees going to make it 😅\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/8bc878fb0b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I don’t know if this trees going to make it 😅\n\n<img src=\"uploads/2023/8bc878fb0b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-02T09:03:26-05:00",
 				"url": "https://mindofaaronw.com/2023/02/02/i-dont-know.html",
 				"tags": ["photos"]
@@ -3542,7 +3589,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/30/the-resident-cat.html",
 				
 				"content_html": "<p>The resident cat at one of our work buildings. I maybe am up here once a week, but always look for him.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The resident cat at one of our work buildings. I maybe am up here once a week, but always look for him. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/9400764d73.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The resident cat at one of our work buildings. I maybe am up here once a week, but always look for him. \n\n<img src=\"uploads/2023/9400764d73.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-30T08:37:50-05:00",
 				"url": "https://mindofaaronw.com/2023/01/30/the-resident-cat.html",
 				"tags": ["photos"]
@@ -3632,7 +3679,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/23/texas-and-austin.html",
 				
 				"content_html": "<p>Texas and Austin make it really hard to support public transportation. But I will ride the CapMetro Rail as long as I can for how convenient and easy it is for my personal commute.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Texas and Austin make it really hard to support public transportation. But I will ride the CapMetro Rail as long as I can for how convenient and easy it is for my personal commute. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/f3545f443f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Texas and Austin make it really hard to support public transportation. But I will ride the CapMetro Rail as long as I can for how convenient and easy it is for my personal commute. \n\n<img src=\"uploads/2023/f3545f443f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-23T08:28:26-05:00",
 				"url": "https://mindofaaronw.com/2023/01/23/texas-and-austin.html",
 				"tags": ["photos"]
@@ -3677,7 +3724,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/20/been-utilizing-readwise.html",
 				
 				"content_html": "<p>Been utilizing Readwise more and more. It unearthed a fantastic quote from <em>Man’s Search for Meaning</em>, that I had to share. Highly recommend this book.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Been utilizing Readwise more and more. It unearthed a fantastic quote from _Man’s Search for Meaning_, that I had to share. Highly recommend this book. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/d4d3586006.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Been utilizing Readwise more and more. It unearthed a fantastic quote from _Man’s Search for Meaning_, that I had to share. Highly recommend this book. \n\n<img src=\"uploads/2023/d4d3586006.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-01-20T11:08:42-05:00",
 				"url": "https://mindofaaronw.com/2023/01/20/been-utilizing-readwise.html",
 				"tags": ["books","quotes","tech"]
@@ -3695,7 +3742,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/19/priority-get-outside.html",
 				"title": "2023 Priority: Get Outside ",
 				"content_html": "<p>Spent the end of 2022 getting completely off grid camping. Here are some photos from the trip.</p>\n<p>One goal of mine for 2023 is to prioritize getting outside more. Whether that’s through hiking, camping, or just traveling and immersing myself into new cultures. Austin has ample options for the first two, and we have a trip planned to Italy in the spring. The year is off to a good first quarter for this goal!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Spent the end of 2022 getting completely off grid camping. Here are some photos from the trip. \n\nOne goal of mine for 2023 is to prioritize getting outside more. Whether that’s through hiking, camping, or just traveling and immersing myself into new cultures. Austin has ample options for the first two, and we have a trip planned to Italy in the spring. The year is off to a good first quarter for this goal!\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/c5aa7cbbd6.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/8363a68f11.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/fc351878ba.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2023/8b8eb7b929.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Spent the end of 2022 getting completely off grid camping. Here are some photos from the trip. \n\nOne goal of mine for 2023 is to prioritize getting outside more. Whether that’s through hiking, camping, or just traveling and immersing myself into new cultures. Austin has ample options for the first two, and we have a trip planned to Italy in the spring. The year is off to a good first quarter for this goal!\n\n\n\n<img src=\"uploads/2023/c5aa7cbbd6.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/8363a68f11.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/fc351878ba.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2023/8b8eb7b929.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-19T16:49:55-05:00",
 				"url": "https://mindofaaronw.com/2023/01/19/priority-get-outside.html",
 				"tags": ["photos"]
@@ -3722,7 +3769,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/17/the-best-kind.html",
 				
 				"content_html": "<p>The best kind of office buddy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The best kind of office buddy. \n\n<img src=\"https://cdn.uploads.micro.blog/96354/2023/f32ac7c5ce.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The best kind of office buddy. \n\n<img src=\"uploads/2023/f32ac7c5ce.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-17T07:57:13-05:00",
 				"url": "https://mindofaaronw.com/2023/01/17/the-best-kind.html",
 				"tags": ["photos","dogs"]
@@ -3749,7 +3796,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/15/a-nice-morning.html",
 				
 				"content_html": "<p>A nice morning today. Hope everyone’s Sunday is going well!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A nice morning today. Hope everyone’s Sunday is going well! \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/4748da5665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "A nice morning today. Hope everyone’s Sunday is going well! \n\n<img src=\"uploads/2023/4748da5665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-15T15:01:55-05:00",
 				"url": "https://mindofaaronw.com/2023/01/15/a-nice-morning.html",
 				"tags": ["photos"]
@@ -3794,7 +3841,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/12/not-to-be.html",
 				
 				"content_html": "<p>Not to be outdone by the sunset last night, here’s the sunrise in central Texas today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not to be outdone by the sunset last night, here’s the sunrise in central Texas today. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/c8699dd09d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Not to be outdone by the sunset last night, here’s the sunrise in central Texas today. \n\n<img src=\"uploads/2023/c8699dd09d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-12T08:45:33-05:00",
 				"url": "https://mindofaaronw.com/2023/01/12/not-to-be.html",
 				"tags": ["photos"]
@@ -3803,7 +3850,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/11/texas-sunsets-who.html",
 				
 				"content_html": "<p>Texas sunsets 🌅. Who can spot Saturn?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Texas sunsets 🌅. Who can spot Saturn?\n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/e7db65fb79.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Texas sunsets 🌅. Who can spot Saturn?\n\n<img src=\"uploads/2023/e7db65fb79.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-11T19:44:59-05:00",
 				"url": "https://mindofaaronw.com/2023/01/11/texas-sunsets-who.html",
 				"tags": ["photos"]
@@ -3839,7 +3886,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/09/165945.html",
 				
 				"content_html": "<p>Always brightens my day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Always brightens my day. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/abfbad1d3d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Always brightens my day. \n\n<img src=\"uploads/2023/abfbad1d3d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-09T17:59:45-05:00",
 				"url": "https://mindofaaronw.com/2023/01/09/165945.html",
 				"tags": ["photos"]
@@ -4019,7 +4066,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/06/always-a-nice.html",
 				
 				"content_html": "<p>Always a nice view when I head to campus 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Always a nice view when I head to campus 📷\n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/819851cdd2.jpg\" width=\"326\" height=\"600\" alt=\"\">\n",
+				"content_text": "Always a nice view when I head to campus 📷\n\n<img src=\"uploads/2023/819851cdd2.jpg\" width=\"326\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-06T22:44:39-05:00",
 				"url": "https://mindofaaronw.com/2023/01/06/always-a-nice.html",
 				"tags": ["photos"]
@@ -4055,7 +4102,7 @@
 				"id": "http://mindofaaronw.micro.blog/2023/01/02/spent-new-years.html",
 				
 				"content_html": "<p>Spent New Years this year away from the city and in the Texas Hill Country. My goals for 2023 include taking the roads less travelled.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spent New Years this year away from the city and in the Texas Hill Country. My goals for 2023 include taking the roads less travelled. \n\n<img src=\"https://mindofaaronw.micro.blog/uploads/2023/d548bc2fd3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Spent New Years this year away from the city and in the Texas Hill Country. My goals for 2023 include taking the roads less travelled. \n\n<img src=\"uploads/2023/d548bc2fd3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-02T17:15:20-05:00",
 				"url": "https://mindofaaronw.com/2023/01/02/spent-new-years.html",
 				"tags": ["photos"]
