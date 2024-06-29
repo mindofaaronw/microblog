@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/06/23/packing-up-and.html",
+				
+				"content_html": "<p>Packing up and moving to a new house in DFW this week. Every time I move I take advantage and downsize some belongings. But moving still might be the most frustrating thing in general.</p>\n",
+				"content_text": "Packing up and moving to a new house in DFW this week. Every time I move I take advantage and downsize some belongings. But moving still might be the most frustrating thing in general.\n",
+				"date_published": "2024-06-23T10:23:41-05:00",
+				"url": "https://mindofaaronw.com/2024/06/23/packing-up-and.html",
+				"tags": ["life"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/06/17/finished-reading-all.html",
 				
 				"content_html": "<p>Finished reading 📚: <a href=\"https://micro.blog/books/9780679744399\">All the Pretty Horses</a> by Cormac McCarthy \n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<em>&ldquo;Scars have the strange power to remind us that our past is real.&quot;</em>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\nMcCarthy&rsquo;s first breakthrough, it is clear why. If this is your first time reading McCarthy, don&rsquo;t do him a disservice - read every line or you will miss so much.</p>\n",
@@ -19,17 +28,19 @@
 				"id": "http://mindofaaronw.micro.blog/2024/06/16/hit-man.html",
 				"title": "Hit Man, 2023 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/7/7/0/4/6/877046-hit-man-0-600-0-900-crop.jpg?v=7a8e101a9d\"/></p> <p>Watched on Sunday June 16, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/7/7/0/4/6/877046-hit-man-0-600-0-900-crop.jpg?v=7a8e101a9d\" /></p>\n<p>Watched on Sunday June 16, 2024.</p>\n",
 				"date_published": "2024-06-16T21:23:33-05:00",
-				"url": "https://mindofaaronw.com/2024/06/16/hit-man.html"
+				"url": "https://mindofaaronw.com/2024/06/16/hit-man.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/06/08/top-secret.html",
 				"title": "Top Secret!, 1984 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/6/2/0/47620-top-secret--0-600-0-900-crop.jpg?v=0317265506\"/></p> <p>What a fun movie. Val Kilmers movie debut and it’s a blast.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/6/2/0/47620-top-secret--0-600-0-900-crop.jpg?v=0317265506\" /></p>\n<p>What a fun movie. Val Kilmers movie debut and it’s a blast.</p>\n",
 				"date_published": "2024-06-08T15:39:03-05:00",
-				"url": "https://mindofaaronw.com/2024/06/08/top-secret.html"
+				"url": "https://mindofaaronw.com/2024/06/08/top-secret.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/06/04/finished-reading-courage.html",
@@ -44,9 +55,10 @@
 				"id": "http://mindofaaronw.micro.blog/2024/06/02/starship-troopers.html",
 				"title": "Starship Troopers, 1997 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/5/5/5/51555-starship-troopers-0-600-0-900-crop.jpg?v=dd7022caf2\"/></p> <p>Watched on Saturday June 1, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/5/5/5/51555-starship-troopers-0-600-0-900-crop.jpg?v=dd7022caf2\" /></p>\n<p>Watched on Saturday June 1, 2024.</p>\n",
 				"date_published": "2024-06-02T12:18:18-05:00",
-				"url": "https://mindofaaronw.com/2024/06/02/starship-troopers.html"
+				"url": "https://mindofaaronw.com/2024/06/02/starship-troopers.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/06/01/godzilla-minus-one.html",
