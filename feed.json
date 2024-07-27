@@ -7,20 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/07/26/the-naked-gun.html",
+				"title": "The Naked Gun: From the Files of Police Squad!, 1988 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/2/8/4/27284-the-naked-gun-0-600-0-900-crop.jpg?v=7f848fb394\"/></p> <p>Watched on Monday July 22, 2024.</p>\n",
+				"date_published": "2024-07-26T20:55:52-05:00",
+				"url": "https://mindofaaronw.com/2024/07/26/the-naked-gun.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/07/22/darn-flight-delays.html",
+				
+				"content_html": "<p>Darn flight delays.</p>\n",
+				"content_text": "Darn flight delays. \n",
+				"date_published": "2024-07-22T11:44:05-05:00",
+				"url": "https://mindofaaronw.com/2024/07/22/darn-flight-delays.html",
+				"tags": ["travel","work"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/07/13/the-beekeeper.html",
 				"title": "The Beekeeper, 2024 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/0/1/7/0/780170-the-beekeeper-0-600-0-900-crop.jpg?v=bf94429baa\"/></p> <p>This is an absolute delight of an action movie.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/0/1/7/0/780170-the-beekeeper-0-600-0-900-crop.jpg?v=bf94429baa\" /></p>\n<p>This is an absolute delight of an action movie.</p>\n",
 				"date_published": "2024-07-13T17:05:18-05:00",
-				"url": "https://mindofaaronw.com/2024/07/13/the-beekeeper.html"
+				"url": "https://mindofaaronw.com/2024/07/13/the-beekeeper.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/07/13/the-bourne-ultimatum.html",
 				"title": "The Bourne Ultimatum, 2007 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/2/2/3/50223-the-bourne-ultimatum-0-600-0-900-crop.jpg?v=009e78c9f0\"/></p> <p>Watched on Saturday July 13, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/2/2/3/50223-the-bourne-ultimatum-0-600-0-900-crop.jpg?v=009e78c9f0\" /></p>\n<p>Watched on Saturday July 13, 2024.</p>\n",
 				"date_published": "2024-07-13T12:43:26-05:00",
-				"url": "https://mindofaaronw.com/2024/07/13/the-bourne-ultimatum.html"
+				"url": "https://mindofaaronw.com/2024/07/13/the-bourne-ultimatum.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/07/13/finished-fallout-s.html",
