@@ -7,12 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/08/05/i-think-im.html",
+				
+				"content_html": "<p>I think I’m a cruise person. This is quite fun.</p>\n",
+				"content_text": "I think I’m a cruise person. This is quite fun. \n",
+				"date_published": "2024-08-05T06:58:35-05:00",
+				"url": "https://mindofaaronw.com/2024/08/05/i-think-im.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/07/31/if-we-dont.html",
+				
+				"content_html": "<p>If we don’t get an epic dragon fight in <strong>House of the Dragon</strong> S2 I think it’s time to riot.</p>\n",
+				"content_text": "If we don’t get an epic dragon fight in __House of the Dragon__ S2 I think it’s time to riot. \n",
+				"date_published": "2024-07-31T06:57:55-05:00",
+				"url": "https://mindofaaronw.com/2024/07/31/if-we-dont.html",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/07/28/is-feedbin-still.html",
+				
+				"content_html": "<p>Is Feedbin still $5/month? What are some perks over using native iCloud syncing?</p>\n",
+				"content_text": "Is Feedbin still $5/month? What are some perks over using native iCloud syncing?\n",
+				"date_published": "2024-07-28T20:00:33-05:00",
+				"url": "https://mindofaaronw.com/2024/07/28/is-feedbin-still.html",
+				"tags": ["tech","apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/07/28/dirty-harry.html",
+				"title": "Dirty Harry, 1971 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/1/8/5/51185-dirty-harry-0-600-0-900-crop.jpg?v=d0d3388e17\"/></p> <p>Dirty Harry rocks, I don’t care what folks say today.</p>\n",
+				"date_published": "2024-07-28T15:32:06-05:00",
+				"url": "https://mindofaaronw.com/2024/07/28/dirty-harry.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/07/27/twister.html",
+				"title": "Twister, 1996 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/4/6/0/51460-twister-0-600-0-900-crop.jpg?v=fb3e6b239c\" /></p>\n<p>Watched on Saturday July 27, 2024.</p>\n",
+				"date_published": "2024-07-27T20:27:53-05:00",
+				"url": "https://mindofaaronw.com/2024/07/27/twister.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/07/26/the-naked-gun.html",
 				"title": "The Naked Gun: From the Files of Police Squad!, 1988 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/2/8/4/27284-the-naked-gun-0-600-0-900-crop.jpg?v=7f848fb394\"/></p> <p>Watched on Monday July 22, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/2/8/4/27284-the-naked-gun-0-600-0-900-crop.jpg?v=7f848fb394\" /></p>\n<p>Watched on Monday July 22, 2024.</p>\n",
 				"date_published": "2024-07-26T20:55:52-05:00",
-				"url": "https://mindofaaronw.com/2024/07/26/the-naked-gun.html"
+				"url": "https://mindofaaronw.com/2024/07/26/the-naked-gun.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/07/22/darn-flight-delays.html",
@@ -62,10 +107,11 @@
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/07/09/fascinated-by-this.html",
 				
-				"content_html": "<p>Fascinated by this YT channel - <a href=\"https://www.youtube.com/@nevertoosmall\">Never Too Small</a>. And while I&rsquo;m confident I could never live in a tiny home like this, I can&rsquo;t stop watching these.</p>\n",
-				"content_text": "Fascinated by this YT channel - [Never Too Small](https://www.youtube.com/@nevertoosmall). And while I'm confident I could never live in a tiny home like this, I can't stop watching these.\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Fascinated by this YT channel - <a href=\"https://www.youtube.com/@nevertoosmall\">Never Too Small</a>. And while I’m confident I could never live in a tiny home like this, I can’t stop watching these.</p>\n",
 				"date_published": "2024-07-09T18:41:04-05:00",
-				"url": "https://mindofaaronw.com/2024/07/09/fascinated-by-this.html"
+				"url": "https://mindofaaronw.com/2024/07/09/fascinated-by-this.html",
+				"tags": ["youtube"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/07/09/finally-have-what.html",
