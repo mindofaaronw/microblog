@@ -7,36 +7,103 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/09/01/a-lovely-interview.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>A <a href=\"https://www.polygon.com/animation-cartoons/446701/the-wild-robot-chris-sanders-interview-animation\">lovely interview</a> with Chris Sanders (of <em>How to Train your</em> <em>Dragon</em> fame) on his new film. Many great thoughts but perhaps this is the most crucial:</p>\n<blockquote>\n<p>kindness can be a survival skill</p>\n</blockquote>\n<p>I can’t wait to see <em>The Wild Robot</em>.</p>\n",
+				"date_published": "2024-09-01T17:00:19-05:00",
+				"url": "https://mindofaaronw.com/2024/09/01/a-lovely-interview.html",
+				"tags": ["movies","articles"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/09/01/been-enjoying-feedbin.html",
+				
+				"content_html": "<p>Been enjoying Feedbin and ultimately ended up subscribing. The sync is consistent and so fast! The biggest surprise is the included Airshow podcast player. Removes the hassle of setting up alternatives like Castro and Overcast. There are some key features missing though.</p>\n",
+				"content_text": "Been enjoying Feedbin and ultimately ended up subscribing. The sync is consistent and so fast! The biggest surprise is the included Airshow podcast player. Removes the hassle of setting up alternatives like Castro and Overcast. There are some key features missing though.\n",
+				"date_published": "2024-09-01T09:18:43-05:00",
+				"url": "https://mindofaaronw.com/2024/09/01/been-enjoying-feedbin.html",
+				"tags": ["apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/08/31/the-fall-guy.html",
+				"title": "The Fall Guy, 2024 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/6/7/5/5/0/667550-the-fall-guy-0-600-0-900-crop.jpg?v=5f491a1281\" /></p>\n<p>Watched on Saturday August 31, 2024.</p>\n",
+				"date_published": "2024-08-31T21:46:48-05:00",
+				"url": "https://mindofaaronw.com/2024/08/31/the-fall-guy.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/08/31/kinds-of-kindness.html",
+				"title": "Kinds of Kindness, 2024 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/2/8/2/6/1/928261-kinds-of-kindness-0-600-0-900-crop.jpg?v=719ff64e2b\" /></p>\n<p>Don’t expect <i>Poor Things </i>in this one.</p>\n",
+				"date_published": "2024-08-31T15:15:05-05:00",
+				"url": "https://mindofaaronw.com/2024/08/31/kinds-of-kindness.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/08/31/a-great-article.html",
+				
+				"content_html": "<p>A great <a href=\"https://www.polygon.com/tv/444096/slow-horses-jackson-lamb-interview-showrunner\">article</a> about Gary Oldman’s portrayal of Jackson Lamb in <em>Slow Horses</em>. This is one of the Oldman’s finest performances in my eyes. Can’t wait to see the new season.</p>\n",
+				"content_text": "A great [article](https://www.polygon.com/tv/444096/slow-horses-jackson-lamb-interview-showrunner) about Gary Oldman’s portrayal of Jackson Lamb in _Slow Horses_. This is one of the Oldman’s finest performances in my eyes. Can’t wait to see the new season. \n",
+				"date_published": "2024-08-31T14:31:39-05:00",
+				"url": "https://mindofaaronw.com/2024/08/31/a-great-article.html",
+				"tags": ["tv","articles"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/08/30/the-snowman.html",
+				"title": "The Snowman, 2017 - ★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/0/7/9/8/0/307980-the-snowman-0-600-0-900-crop.jpg?v=31c6d0fd99\" /></p>\n<p>I couldn’t even finish this. I can’t tell you what’s happening. I just know it has an unbelievable cast for some reason.</p>\n",
+				"date_published": "2024-08-30T17:51:03-05:00",
+				"url": "https://mindofaaronw.com/2024/08/30/the-snowman.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/08/28/presumed-innocent-is.html",
+				
+				"content_html": "<p><strong>Presumed Innocent</strong> is very good. Highly recommend if you enjoy legal dramas.</p>\n",
+				"content_text": "__Presumed Innocent__ is very good. Highly recommend if you enjoy legal dramas. \n",
+				"date_published": "2024-08-28T21:20:19-05:00",
+				"url": "https://mindofaaronw.com/2024/08/28/presumed-innocent-is.html",
+				"tags": ["tv"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/08/27/why-cant-you.html",
 				
-				"content_html": "<p>Why can’t you remove the Special Coverage section in Apple News?</p>\n",
-				"content_text": "Why can’t you remove the Special Coverage section in Apple News?\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Why can’t you remove the Special Coverage section in Apple News?</p>\n",
 				"date_published": "2024-08-27T12:31:30-05:00",
-				"url": "https://mindofaaronw.com/2024/08/27/why-cant-you.html"
+				"url": "https://mindofaaronw.com/2024/08/27/why-cant-you.html",
+				"tags": ["apple"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/08/25/twisters.html",
 				"title": "Twisters, 2024 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/1/6/0/8/641608-twisters-0-600-0-900-crop.jpg?v=b1bb3d5cc7\"/></p> <p>Watched on Sunday August 25, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/1/6/0/8/641608-twisters-0-600-0-900-crop.jpg?v=b1bb3d5cc7\" /></p>\n<p>Watched on Sunday August 25, 2024.</p>\n",
 				"date_published": "2024-08-25T21:22:10-05:00",
-				"url": "https://mindofaaronw.com/2024/08/25/twisters.html"
+				"url": "https://mindofaaronw.com/2024/08/25/twisters.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/08/24/naked-gun-the.html",
 				"title": "Naked Gun 33⅓: The Final Insult, 1994 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/7/7/5/27775-the-naked-gun-33-the-final-insult-0-600-0-900-crop.jpg?v=85cd9f0336\"/></p> <p>Leslie Nielsen was such a treat.</p>\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/7/7/5/27775-the-naked-gun-33-the-final-insult-0-600-0-900-crop.jpg?v=85cd9f0336\" /></p>\n<p>Leslie Nielsen was such a treat.</p>\n",
 				"date_published": "2024-08-24T12:33:15-05:00",
-				"url": "https://mindofaaronw.com/2024/08/24/naked-gun-the.html"
+				"url": "https://mindofaaronw.com/2024/08/24/naked-gun-the.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/08/19/never-thought-id.html",
 				
-				"content_html": "<p>Never thought I&rsquo;d say these words. But today I start the journey to obtaining an MBA.</p>\n",
-				"content_text": "Never thought I'd say these words. But today I start the journey to obtaining an MBA. \n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Never thought I’d say these words. But today I start the journey to obtaining an MBA.</p>\n",
 				"date_published": "2024-08-19T17:50:42-05:00",
-				"url": "https://mindofaaronw.com/2024/08/19/never-thought-id.html"
+				"url": "https://mindofaaronw.com/2024/08/19/never-thought-id.html",
+				"tags": ["school"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/08/17/finished-reading-morning.html",
