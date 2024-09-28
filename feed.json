@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/09/28/i-really-dislike.html",
+				
+				"content_html": "<p>I really dislike the dark/tinted icons.</p>\n",
+				"content_text": "I really dislike the dark/tinted icons.\n",
+				"date_published": "2024-09-28T09:58:26-05:00",
+				"url": "https://mindofaaronw.com/2024/09/28/i-really-dislike.html",
+				"tags": ["apps","apple"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/09/22/im-years-old.html",
+				
+				"content_html": "<p>I&rsquo;m 34 years old and I just discovered I like Phish. I think I&rsquo;ve finally hit my Dad Rock era.</p>\n",
+				"content_text": "I'm 34 years old and I just discovered I like Phish. I think I've finally hit my Dad Rock era.\n",
+				"date_published": "2024-09-22T11:37:12-05:00",
+				"url": "https://mindofaaronw.com/2024/09/22/im-years-old.html",
+				"tags": ["music"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/09/19/calibre-is-such.html",
 				
 				"content_html": "<p>Calibre is such a horrendous looking app. Why can&rsquo;t we have DRM removal and a modern app in one?</p>\n",
