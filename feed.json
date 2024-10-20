@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/10/20/had-a-fun.html",
+				
+				"content_html": "<p>Had a fun weekend in New Orleans. A very great city with great people, great food, and lots of fun!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Had a fun weekend in New Orleans. A very great city with great people, great food, and lots of fun!\n\n<img src=\"uploads/2024/img-6254.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/img-6241.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/img-6242.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/img-6243.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-20T14:44:21-05:00",
+				"url": "https://mindofaaronw.com/2024/10/20/had-a-fun.html",
+				"tags": ["travel"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/10/14/as-someone-who.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>As someone who has used analytics, Excel, and even more advanced tools for statistical analysis for most of my working career, I am not looking forward to the Business Analytics course in my MBA this semester.</p>\n",
+				"date_published": "2024-10-14T21:28:23-05:00",
+				"url": "https://mindofaaronw.com/2024/10/14/as-someone-who.html",
+				"tags": ["school"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/10/13/172036.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/img-6226.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-13T17:20:36-05:00",
+				"url": "https://mindofaaronw.com/2024/10/13/172036.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/10/11/jason-isbells-new.html",
+				
+				"content_html": "<p>Jason Isbell&rsquo;s new <em>Live from the Ryman</em> album sounds so good.</p>\n",
+				"content_text": "Jason Isbell's new _Live from the Ryman_ album sounds so good.\n",
+				"date_published": "2024-10-11T19:38:09-05:00",
+				"url": "https://mindofaaronw.com/2024/10/11/jason-isbells-new.html",
+				"tags": ["music"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/09/30/logan-lucky.html",
 				"title": "Logan Lucky, 2017 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -45,10 +81,11 @@
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/09/28/neat-little-history.html",
 				
-				"content_html": "<p>Neat little <a href=\"https://petapixel.com/minolta-history/\">history of the Minolta brand</a>. I remember my mom having one in the late 90s that she dubbed the &ldquo;best camera she ever used&rdquo;. I still have that 35mm film camera, maybe I should break that out.</p>\n",
-				"content_text": "Neat little [history of the Minolta brand](https://petapixel.com/minolta-history/). I remember my mom having one in the late 90s that she dubbed the \"best camera she ever used\". I still have that 35mm film camera, maybe I should break that out.\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Neat little <a href=\"https://petapixel.com/minolta-history/\">history of the Minolta brand</a>. I remember my mom having one in the late 90s that she dubbed the “best camera she ever used”. I still have that 35mm film camera, maybe I should break that out.</p>\n",
 				"date_published": "2024-09-28T11:02:49-05:00",
-				"url": "https://mindofaaronw.com/2024/09/28/neat-little-history.html"
+				"url": "https://mindofaaronw.com/2024/09/28/neat-little-history.html",
+				"tags": ["articles"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2024/09/28/inside-out.html",
