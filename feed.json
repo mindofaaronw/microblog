@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/11/02/trying-out-nileanes.html",
+				
+				"content_html": "<p>Trying out Nileane&rsquo;s <a href=\"https://github.com/nileane/TangerineUI-for-Mastodon\">Tangerine Theme</a> for Mastodon and it is quite gorgeous. A little cleaner and my eyes enjoy the larger icons and text.</p>\n",
+				"content_text": "Trying out Nileane's [Tangerine Theme](https://github.com/nileane/TangerineUI-for-Mastodon) for Mastodon and it is quite gorgeous. A little cleaner and my eyes enjoy the larger icons and text.\n",
+				"date_published": "2024-11-02T13:09:26-05:00",
+				"url": "https://mindofaaronw.com/2024/11/02/trying-out-nileanes.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/10/20/had-a-fun.html",
 				
 				"content_html": "<p>Had a fun weekend in New Orleans. A very great city with great people, great food, and lots of fun!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
