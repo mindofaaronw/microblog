@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2024/11/28/just-got-an.html",
+				
+				"content_html": "<p>Just got an email from Kagi with <a href=\"https://kagi.com/p/THANKS599C8542\">a free 3-month referral</a>. If anyone is wanting to try it out, I highly recommend it.</p>\n",
+				"content_text": "Just got an email from Kagi with [a free 3-month referral](https://kagi.com/p/THANKS599C8542). If anyone is wanting to try it out, I highly recommend it.\n",
+				"date_published": "2024-11-28T11:45:00-06:00",
+				"url": "https://mindofaaronw.com/2024/11/28/just-got-an.html",
+				"tags": ["apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/11/28/tv-on-the.html",
+				
+				"content_html": "<p>TV on the Radio is a very underrated band.</p>\n",
+				"content_text": "TV on the Radio is a very underrated band.\n",
+				"date_published": "2024-11-28T11:21:05-06:00",
+				"url": "https://mindofaaronw.com/2024/11/28/tv-on-the.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/11/28/enjoy-time-with.html",
+				
+				"content_html": "<p>Enjoy time with family and friends this Thanksgiving!</p>\n",
+				"content_text": "Enjoy time with family and friends this Thanksgiving!\r\n",
+				"date_published": "2024-11-28T11:11:55-06:00",
+				"url": "https://mindofaaronw.com/2024/11/28/enjoy-time-with.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2024/11/26/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading📚: <a href=\"https://micro.blog/books/9780385348720\">The Splendid and the Vile</a> by Erik Larson</p>\n",
+				"content_text": "Finished reading📚: [The Splendid and the Vile](https://micro.blog/books/9780385348720) by Erik Larson \n",
+				"date_published": "2024-11-26T19:49:04-06:00",
+				"url": "https://mindofaaronw.com/2024/11/26/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2024/11/23/the-penguin.html",
 				"title": "The Penguin, 2024 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -54,7 +90,7 @@
 				"id": "http://mindofaaronw.micro.blog/2024/10/20/had-a-fun.html",
 				
 				"content_html": "<p>Had a fun weekend in New Orleans. A very great city with great people, great food, and lots of fun!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Had a fun weekend in New Orleans. A very great city with great people, great food, and lots of fun!\n\n<img src=\"uploads/2024/img-6254.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/img-6241.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/img-6242.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/img-6243.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Had a fun weekend in New Orleans. A very great city with great people, great food, and lots of fun!\n\n<img src=\"https://cdn.uploads.micro.blog/96354/2024/img-6254.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2024/img-6241.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2024/img-6242.jpeg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/96354/2024/img-6243.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-20T13:44:21-06:00",
 				"url": "https://mindofaaronw.com/2024/10/20/had-a-fun.html",
 				"tags": ["photos","travel"]
