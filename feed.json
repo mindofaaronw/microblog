@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2025/02/13/this-is-quite-disappointing-to.html",
+				
+				"content_html": "<p>This is quite disappointing to <a href=\"https://www.howtogeek.com/asahi-linux-reorganization-m3-m4-mac-support/\">hear about Asahi</a>. I was looking forward to it being stable enough to replace my Air when it reached end of life.</p>\n",
+				"content_text": "This is quite disappointing to [hear about Asahi](https://www.howtogeek.com/asahi-linux-reorganization-m3-m4-mac-support/). I was looking forward to it being stable enough to replace my Air when it reached end of life.\n",
+				"date_published": "2025-02-13T17:50:28-06:00",
+				"url": "https://mindofaaronw.com/2025/02/13/this-is-quite-disappointing-to.html",
+				"tags": ["tech","apple"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2025/02/07/as-much-as-i-dont.html",
 				
 				"content_html": "<p>As much as I don&rsquo;t love Google, I find Gemini to be faster and more user friendly than ChatGPT.</p>\n",
@@ -19,9 +28,10 @@
 				"id": "http://mindofaaronw.micro.blog/2025/02/01/jaws.html",
 				"title": "Jaws, 1975 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/51542-jaws-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday February 1, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/51542-jaws-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Saturday February 1, 2025.</p>\n",
 				"date_published": "2025-02-01T20:31:53-06:00",
-				"url": "https://mindofaaronw.com/2025/02/01/jaws.html"
+				"url": "https://mindofaaronw.com/2025/02/01/jaws.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/01/25/from-macstories-today-earlier-this.html",
@@ -36,17 +46,19 @@
 				"id": "http://mindofaaronw.micro.blog/2025/01/20/land-of-bad.html",
 				"title": "Land of Bad, 2024 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/872755-land-of-bad-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday January 20, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/872755-land-of-bad-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Monday January 20, 2025.</p>\n",
 				"date_published": "2025-01-20T22:46:50-06:00",
-				"url": "https://mindofaaronw.com/2025/01/20/land-of-bad.html"
+				"url": "https://mindofaaronw.com/2025/01/20/land-of-bad.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/01/19/ari-shaffir-americas-sweetheart.html",
 				"title": "Ari Shaffir: America\u0026#039;s Sweetheart, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/1288006-ari-shaffir-americas-sweetheart-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday January 19, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/1288006-ari-shaffir-americas-sweetheart-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Sunday January 19, 2025.</p>\n",
 				"date_published": "2025-01-19T18:16:12-06:00",
-				"url": "https://mindofaaronw.com/2025/01/19/ari-shaffir-americas-sweetheart.html"
+				"url": "https://mindofaaronw.com/2025/01/19/ari-shaffir-americas-sweetheart.html",
+				"tags": ["tv"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/01/17/after-being-on-overcast-and.html",
@@ -106,9 +118,10 @@
 				"id": "http://mindofaaronw.micro.blog/2025/01/04/wallace-amp-gromit-vengeance-most.html",
 				"title": "Wallace \u0026amp; Gromit: Vengeance Most Fowl, 2024 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/834561-wallace-gromit-vengeance-most-fowl-0-600-0-900-crop.jpg.jpg\"/></p> <p>A relevant and hysterical take on AI using stop motion. Fantastic all around.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/834561-wallace-gromit-vengeance-most-fowl-0-600-0-900-crop.jpg.jpg\" /></p>\n<p>A relevant and hysterical take on AI using stop motion. Fantastic all around.</p>\n",
 				"date_published": "2025-01-04T14:17:21-06:00",
-				"url": "https://mindofaaronw.com/2025/01/04/wallace-amp-gromit-vengeance-most.html"
+				"url": "https://mindofaaronw.com/2025/01/04/wallace-amp-gromit-vengeance-most.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/01/03/my-top-movies-of-in.html",
