@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2025/02/17/im-not-huge-on-changing.html",
+				
+				"content_html": "<p>I’m not huge on changing fonts, but it is a little weird that you can’t easily install custom fonts with better readability on iOS in 2025.</p>\n",
+				"content_text": "I’m not huge on changing fonts, but it is a little weird that you can’t easily install custom fonts with better readability on iOS in 2025. \n",
+				"date_published": "2025-02-17T21:35:53-06:00",
+				"url": "https://mindofaaronw.com/2025/02/17/im-not-huge-on-changing.html",
+				"tags": ["tech","apps","apple"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/02/16/i-dont-know-why-but.html",
+				
+				"content_html": "<p>I don&rsquo;t know why but Peter McKinnon is just such an engaging talker. I just watched 24 minutes of him talking about pens and writing and it was fascinating the whole time lol</p>\n",
+				"content_text": "I don't know why but Peter McKinnon is just such an engaging talker. I just watched 24 minutes of him talking about pens and writing and it was fascinating the whole time lol\n",
+				"date_published": "2025-02-16T09:54:43-06:00",
+				"url": "https://mindofaaronw.com/2025/02/16/i-dont-know-why-but.html",
+				"tags": ["youtube"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/02/15/conclave.html",
+				"title": "Conclave, 2024 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/877253-conclave-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Saturday February 15, 2025.</p>\n",
+				"date_published": "2025-02-15T21:59:14-06:00",
+				"url": "https://mindofaaronw.com/2025/02/15/conclave.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/02/14/anora.html",
+				"title": "Anora, 2024 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/959540-anora-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Friday February 14, 2025.</p>\n",
+				"date_published": "2025-02-14T21:31:47-06:00",
+				"url": "https://mindofaaronw.com/2025/02/14/anora.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2025/02/13/this-is-quite-disappointing-to.html",
 				
 				"content_html": "<p>This is quite disappointing to <a href=\"https://www.howtogeek.com/asahi-linux-reorganization-m3-m4-mac-support/\">hear about Asahi</a>. I was looking forward to it being stable enough to replace my Air when it reached end of life.</p>\n",
