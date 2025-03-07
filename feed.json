@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2025/03/06/silo-is-an-excellent-show.html",
+				
+				"content_html": "<p><em>Silo</em> is an excellent show that I wish more people were watching and talking about</p>\n",
+				"content_text": "_Silo_ is an excellent show that I wish more people were watching and talking about\n",
+				"date_published": "2025-03-06T20:57:09-06:00",
+				"url": "https://mindofaaronw.com/2025/03/06/silo-is-an-excellent-show.html",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/03/03/a-movie-made-entirely-with.html",
+				
+				"content_html": "<p>A movie made entirely with a free and open source piece of software wins and Oscar and the Best Picture winner is about a sex worker. Movies are magical. Anora is excellent by the way.</p>\n",
+				"content_text": "A movie made entirely with a free and open source piece of software wins and Oscar and the Best Picture winner is about a sex worker. Movies are magical. Anora is excellent by the way. \n",
+				"date_published": "2025-03-03T06:43:53-06:00",
+				"url": "https://mindofaaronw.com/2025/03/03/a-movie-made-entirely-with.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/03/02/finished-what-we-do-in.html",
+				
+				"content_html": "<p>Finished <em>What We Do in the Shadows</em> series finale. I adore this show and am sad to see it go.</p>\n",
+				"content_text": "Finished _What We Do in the Shadows_ series finale. I adore this show and am sad to see it go. \n",
+				"date_published": "2025-03-02T08:07:55-06:00",
+				"url": "https://mindofaaronw.com/2025/03/02/finished-what-we-do-in.html",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/03/01/trying-out-vivaldi-for-the.html",
+				
+				"content_html": "<p>Trying out Vivaldi for the first time. A lot to take in here but it looks pretty cool</p>\n",
+				"content_text": "Trying out Vivaldi for the first time. A lot to take in here but it looks pretty cool\n",
+				"date_published": "2025-03-01T14:49:26-06:00",
+				"url": "https://mindofaaronw.com/2025/03/01/trying-out-vivaldi-for-the.html",
+				"tags": ["apps"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/03/01/another-week-block-of-mba.html",
+				
+				"content_html": "<p>Another 7 week block of MBA classes done. This one was brutal and I am exhausted.</p>\n",
+				"content_text": "Another 7 week block of MBA classes done. This one was brutal and I am exhausted. \n",
+				"date_published": "2025-03-01T13:58:51-06:00",
+				"url": "https://mindofaaronw.com/2025/03/01/another-week-block-of-mba.html",
+				"tags": ["school"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2025/02/25/i-really-like-the-andor.html",
 				
 				"content_html": "<p>I really like the Andor S2 trailer.</p>\n",
@@ -37,7 +82,7 @@
 				"id": "http://mindofaaronw.micro.blog/2025/02/15/conclave.html",
 				"title": "Conclave, 2024 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/877253-conclave-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Saturday February 15, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/96354/2025/877253-conclave-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Saturday February 15, 2025.</p>\n",
 				"date_published": "2025-02-15T21:59:14-06:00",
 				"url": "https://mindofaaronw.com/2025/02/15/conclave.html",
 				"tags": ["movies"]
@@ -46,7 +91,7 @@
 				"id": "http://mindofaaronw.micro.blog/2025/02/14/anora.html",
 				"title": "Anora, 2024 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/959540-anora-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Friday February 14, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/96354/2025/959540-anora-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Friday February 14, 2025.</p>\n",
 				"date_published": "2025-02-14T21:31:47-06:00",
 				"url": "https://mindofaaronw.com/2025/02/14/anora.html",
 				"tags": ["movies"]
