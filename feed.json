@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2025/03/23/den-of-thieves-pantera.html",
+				"title": "Den of Thieves 2: Pantera, 2025 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/531894-den-of-thieves-2-pantera-0-600-0-900-crop.jpg\"/></p> <p>I would like to steal diamonds in Europe with the Panthers as well.</p>\n",
+				"date_published": "2025-03-23T11:10:15-05:00",
+				"url": "https://mindofaaronw.com/2025/03/23/den-of-thieves-pantera.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/03/21/adolescence.html",
+				"title": "Adolescence, 2025 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/1326828-adolescence-2025-0-600-0-900-crop.jpg\" /></p>\n<p>A gut wrenching masterpiece.</p>\n",
+				"date_published": "2025-03-21T21:46:20-05:00",
+				"url": "https://mindofaaronw.com/2025/03/21/adolescence.html",
+				"tags": ["tv"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2025/03/21/adolescence-is-a-heartbreaking-masterpiece.html",
 				
 				"content_html": "<p><em>Adolescence</em> is a heartbreaking masterpiece.</p>\n",
@@ -19,9 +36,10 @@
 				"id": "http://mindofaaronw.micro.blog/2025/03/16/black-bag.html",
 				"title": "Black Bag, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/1116755-black-bag-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday March 16, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/1116755-black-bag-2025-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Sunday March 16, 2025.</p>\n",
 				"date_published": "2025-03-16T15:03:47-05:00",
-				"url": "https://mindofaaronw.com/2025/03/16/black-bag.html"
+				"url": "https://mindofaaronw.com/2025/03/16/black-bag.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/03/16/one-thing-ive-noticed-while.html",
@@ -36,9 +54,10 @@
 				"id": "http://mindofaaronw.micro.blog/2025/03/15/bill-burr-drop-dead-years.html",
 				"title": "Bill Burr: Drop Dead Years, 2025 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/1298520-bill-burr-drop-dead-years-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday March 15, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/1298520-bill-burr-drop-dead-years-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Saturday March 15, 2025.</p>\n",
 				"date_published": "2025-03-15T21:02:13-05:00",
-				"url": "https://mindofaaronw.com/2025/03/15/bill-burr-drop-dead-years.html"
+				"url": "https://mindofaaronw.com/2025/03/15/bill-burr-drop-dead-years.html",
+				"tags": ["tv"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/03/09/hot-take-full-swing-is.html",
