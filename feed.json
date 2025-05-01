@@ -7,20 +7,76 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2025/05/01/finished-reading-matterhorn-by-karl.html",
+				
+				"content_html": "<p>Finished reading 📚: <a href=\"https://micro.blog/books/9780802197160\">Matterhorn</a> by Karl Marlantes \n<!-- raw HTML omitted -->\nThis is a dark, honest look into the horrors of war. Marlantes is exquisite in his writing and this book is incredible, however I cannot recommend this for everyone.</p>\n",
+				"content_text": "Finished reading 📚: [Matterhorn](https://micro.blog/books/9780802197160) by Karl Marlantes \r\n<br>\r\nThis is a dark, honest look into the horrors of war. Marlantes is exquisite in his writing and this book is incredible, however I cannot recommend this for everyone. \n",
+				"date_published": "2025-05-01T10:54:45-05:00",
+				"url": "https://mindofaaronw.com/2025/05/01/finished-reading-matterhorn-by-karl.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/04/27/in-a-world-with-content.html",
+				
+				"content_html": "<p>In a world with content overload, I&rsquo;ve been reminded lately how nice YouTube can be.</p>\n",
+				"content_text": "In a world with content overload, I've been reminded lately how nice YouTube can be.\n",
+				"date_published": "2025-04-27T10:20:56-05:00",
+				"url": "https://mindofaaronw.com/2025/04/27/in-a-world-with-content.html",
+				"tags": ["youtube"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/04/26/havoc.html",
+				"title": "Havoc, 2025 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/593280-havoc-1-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Saturday April 26, 2025.</p>\n",
+				"date_published": "2025-04-26T21:21:18-05:00",
+				"url": "https://mindofaaronw.com/2025/04/26/havoc.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/04/26/black-mirror-plaything.html",
+				"title": "Black Mirror: Plaything, 2025 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/1335380-black-mirror-plaything-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Saturday April 26, 2025.</p>\n",
+				"date_published": "2025-04-26T18:25:46-05:00",
+				"url": "https://mindofaaronw.com/2025/04/26/black-mirror-plaything.html",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/04/26/black-mirror-hotel-reverie.html",
+				"title": "Black Mirror: Hotel Reverie, 2025 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/1335375-black-mirror-hotel-reverie-0-600-0-900-crop.jpg\" /></p>\n<p>This wasn’t sad but it’s why Hollywood went on strike too</p>\n",
+				"date_published": "2025-04-26T17:58:50-05:00",
+				"url": "https://mindofaaronw.com/2025/04/26/black-mirror-hotel-reverie.html",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/04/26/black-mirror-bte-noire.html",
+				"title": "Black Mirror: Bête Noire, 2025 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/1335379-black-mirror-bete-noire-0-600-0-900-crop.jpg\" /></p>\n<p>Watched on Friday April 25, 2025.</p>\n",
+				"date_published": "2025-04-26T17:58:14-05:00",
+				"url": "https://mindofaaronw.com/2025/04/26/black-mirror-bte-noire.html",
+				"tags": ["tv"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2025/04/25/the-gorge.html",
 				"title": "The Gorge, 2025 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/854687-the-gorge-2025-0-600-0-900-crop.jpg\"/></p> <p>What if Queens Gambit and Rooster had an unbelievable love story and fought white walkers but it was hell and not the north? </p><p>I still kinda liked it though</p>\n",
+				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/96354/2025/854687-the-gorge-2025-0-600-0-900-crop.jpg\" /></p>\n<p>What if Queens Gambit and Rooster had an unbelievable love story and fought white walkers but it was hell and not the north? </p>\n<p>I still kinda liked it though</p>\n",
 				"date_published": "2025-04-25T17:19:03-05:00",
-				"url": "https://mindofaaronw.com/2025/04/25/the-gorge.html"
+				"url": "https://mindofaaronw.com/2025/04/25/the-gorge.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/04/21/black-mirror-common-people.html",
 				"title": "Black Mirror: Common People, 2025 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/1335378-black-mirror-common-people-0-600-0-900-crop.jpg\"/></p> <p>Oof. This one’s dark.</p>\n",
+				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/96354/2025/1335378-black-mirror-common-people-0-600-0-900-crop.jpg\" /></p>\n<p>Oof. This one’s dark.</p>\n",
 				"date_published": "2025-04-21T19:40:06-05:00",
-				"url": "https://mindofaaronw.com/2025/04/21/black-mirror-common-people.html"
+				"url": "https://mindofaaronw.com/2025/04/21/black-mirror-common-people.html",
+				"tags": ["tv"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/04/18/finished-reading-leading-from-the.html",
@@ -35,7 +91,7 @@
 				"id": "http://mindofaaronw.micro.blog/2025/04/06/a-brief-detour-to-niagara.html",
 				
 				"content_html": "<p>A brief detour to Niagara before work trip</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A brief detour to Niagara before work trip\n\n<img src=\"uploads/2025/414a51b12d.jpg\" width=\"450\" height=\"600\" alt=\"View from above of Niagara Falls. \"><img src=\"uploads/2025/5da3a32124.jpg\" width=\"450\" height=\"600\" alt=\"View from above Niagara Falls, Sun is shining through the clouds. \"><img src=\"uploads/2025/ee74681c1d.jpg\" width=\"450\" height=\"600\" alt=\"View from Niagara Falls looking towards the US-Canadian border bridge. Frozen river below. \">\n",
+				"content_text": "A brief detour to Niagara before work trip\n\n<img src=\"https://eu.uploads.micro.blog/96354/2025/414a51b12d.jpg\" width=\"450\" height=\"600\" alt=\"View from above of Niagara Falls. \"><img src=\"https://eu.uploads.micro.blog/96354/2025/5da3a32124.jpg\" width=\"450\" height=\"600\" alt=\"View from above Niagara Falls, Sun is shining through the clouds. \"><img src=\"https://eu.uploads.micro.blog/96354/2025/ee74681c1d.jpg\" width=\"450\" height=\"600\" alt=\"View from Niagara Falls looking towards the US-Canadian border bridge. Frozen river below. \">\n",
 				"date_published": "2025-04-06T08:41:06-05:00",
 				"url": "https://mindofaaronw.com/2025/04/06/a-brief-detour-to-niagara.html",
 				"tags": ["photos","travel"]
@@ -44,7 +100,7 @@
 				"id": "http://mindofaaronw.micro.blog/2025/03/23/den-of-thieves-pantera.html",
 				"title": "Den of Thieves 2: Pantera, 2025 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/531894-den-of-thieves-2-pantera-0-600-0-900-crop.jpg\" /></p>\n<p>I would like to steal diamonds in Europe with the Panthers as well.</p>\n",
+				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/96354/2025/531894-den-of-thieves-2-pantera-0-600-0-900-crop.jpg\" /></p>\n<p>I would like to steal diamonds in Europe with the Panthers as well.</p>\n",
 				"date_published": "2025-03-23T11:10:15-05:00",
 				"url": "https://mindofaaronw.com/2025/03/23/den-of-thieves-pantera.html",
 				"tags": ["movies"]
