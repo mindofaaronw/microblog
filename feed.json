@@ -7,12 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://mindofaaronw.micro.blog/2025/06/12/now-you-see-me.html",
+				"title": "Now You See Me, 2013 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/1nybalflbmrxmir9woyxtlt1b6m-0-600-0-900-crop.jpg\"/></p> <p>I love magic.</p>\n",
+				"date_published": "2025-06-12T20:32:18-05:00",
+				"url": "https://mindofaaronw.com/2025/06/12/now-you-see-me.html"
+			},
+			{
+				"id": "http://mindofaaronw.micro.blog/2025/06/07/the-french-connection.html",
+				"title": "The French Connection, 1971 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/5xsgvikl2ypvokiefjc3rzlw7x0-0-600-0-900-crop.jpg\" /></p>\n<p>Take a bow Friedkin and Hackman.</p>\n",
+				"date_published": "2025-06-07T18:31:25-05:00",
+				"url": "https://mindofaaronw.com/2025/06/07/the-french-connection.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://mindofaaronw.micro.blog/2025/06/07/ballerina.html",
 				"title": "Ballerina, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/470671-ballerina-2025-0-600-0-900-crop.jpg\"/></p> <p>Flamethrowers are so cool.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/470671-ballerina-2025-0-600-0-900-crop.jpg\" /></p>\n<p>Flamethrowers are so cool.</p>\n",
 				"date_published": "2025-06-07T15:53:11-05:00",
-				"url": "https://mindofaaronw.com/2025/06/07/ballerina.html"
+				"url": "https://mindofaaronw.com/2025/06/07/ballerina.html",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://mindofaaronw.micro.blog/2025/06/01/finished-reading-why-we-love.html",
